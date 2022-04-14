@@ -5,7 +5,7 @@ VOLUME I
 
 
 
-CHAPTER I
+
 
 
 Emma Woodhouse, handsome, clever, and rich, with a comfortable home and
@@ -339,7 +339,7 @@ man of six or seven-and-twenty can take care of himself.”
 
 
 
-CHAPTER II
+
 
 
 Mr. Weston was a native of Highbury, and born of a respectable family,
@@ -506,7 +506,7 @@ Woodhouse would never believe it.
 
 
 
-CHAPTER III
+
 
 
 Mr. Woodhouse was fond of society in his own way. He liked very much to
@@ -688,7 +688,7 @@ hands with her at last!
 
 
 
-CHAPTER IV
+
 
 
 Harriet Smith’s intimacy at Hartfield was soon a settled thing. Quick
@@ -1035,7 +1035,7 @@ by Mr. Elton’s admiration.
 
 
 
-CHAPTER V
+
 
 
 “I do not know what your opinion may be, Mrs. Weston,” said Mr.
@@ -1239,7 +1239,7 @@ about Hartfield.
 
 
 
-CHAPTER VI
+
 
 
 Emma could not feel a doubt of having given Harriet’s fancy a proper
@@ -1527,7 +1527,7 @@ But it is his gratitude on Harriet’s account.”
 
 
 
-CHAPTER VII
+
 
 
 The very day of Mr. Elton’s going to London produced a fresh occasion
@@ -1791,7 +1791,7 @@ Harriet smiled again, and her smiles grew stronger.
 
 
 
-CHAPTER VIII
+
 
 
 Harriet slept at Hartfield that night. For some weeks past she had been
@@ -2217,7 +2217,7 @@ had not his equal for beauty or agreeableness.”
 
 
 
-CHAPTER IX
+
 
 
 Mr. Knightley might quarrel with her, but Emma could not quarrel with
@@ -2777,7 +2777,7 @@ the sublime of pleasure to Harriet’s share.
 
 
 
-CHAPTER X
+
 
 
 Though now the middle of December, there had yet been no weather to
@@ -3049,7 +3049,7 @@ them forward to the great event.
 
 
 
-CHAPTER XI
+
 
 
 Mr. Elton must now be left to himself. It was no longer in Emma’s power
@@ -3265,7 +3265,7 @@ important.—It had a high claim to forbearance.
 
 
 
-CHAPTER XII
+
 
 
 Mr. Knightley was to dine with them—rather against the inclination of
@@ -3615,7 +3615,7 @@ other, prevented any renewal of it.
 
 
 
-CHAPTER XIII
+
 
 
 There could hardly be a happier creature in the world than Mrs. John
@@ -3929,7 +3929,7 @@ the sweep-gate, “will be to find myself safe at Hartfield again.”
 
 
 
-CHAPTER XIV
+
 
 
 Some change of countenance was necessary for each gentleman as they
@@ -4168,7 +4168,7 @@ of his coming away from them to visit us.”
 
 
 
-CHAPTER XV
+
 
 
 Mr. Woodhouse was soon ready for his tea; and when he had drank his tea
@@ -4496,7 +4496,7 @@ reflection.
 
 
 
-CHAPTER XVI
+
 
 
 The hair was curled, and the maid sent away, and Emma sat down to think
@@ -4685,7 +4685,6 @@ as made it impossible for Emma to be ever perfectly at ease.
 
 
 
-CHAPTER XVII
 
 
 Mr. and Mrs. John Knightley were not detained long at Hartfield. The
@@ -4811,7 +4810,7 @@ cure, there could be no true peace for herself.
 
 
 
-CHAPTER XVIII
+
 
 
 Mr. Frank Churchill did not come. When the time proposed drew near,
@@ -5075,7 +5074,7 @@ VOLUME II
 
 
 
-CHAPTER I
+
 
 
 Emma and Harriet had been walking together one morning, and, in Emma’s
@@ -5358,7 +5357,7 @@ Jane Fairfax’s letter, she had been able to escape the letter itself.
 
 
 
-CHAPTER II
+
 
 
 Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest
@@ -5590,7 +5589,7 @@ manners pleasing.” Emma could not forgive her.
 
 
 
-CHAPTER III
+
 
 
 Emma could not forgive her;—but as neither provocation nor resentment
@@ -5984,7 +5983,7 @@ any necessity, or even any power of speech.
 
 
 
-CHAPTER IV
+
 
 
 Human nature is so well disposed towards those who are in interesting
@@ -6147,7 +6146,7 @@ glossed over—it must be done, or what would become of Harriet?
 
 
 
-CHAPTER V
+
 
 
 Small heart had Harriet for visiting. Only half an hour before her
@@ -6490,7 +6489,7 @@ with full confidence in their comfort.
 
 
 
-CHAPTER VI
+
 
 
 The next morning brought Mr. Frank Churchill again. He came with Mrs.
@@ -6800,7 +6799,7 @@ be allowed an early establishment.
 
 
 
-CHAPTER VII
+
 
 
 Emma’s very good opinion of Frank Churchill was a little shaken the
@@ -7023,7 +7022,7 @@ thing were safe in the house, as usual.
 
 
 
-CHAPTER VIII
+
 
 
 Frank Churchill came back again; and if he kept his father’s dinner
@@ -7692,7 +7691,7 @@ would not have agreed with me, after yours.”
 
 
 
-CHAPTER IX
+
 
 
 Emma did not repent her condescension in going to the Coles. The visit
@@ -8020,7 +8019,7 @@ Smith, the step at the turning.”
 
 
 
-CHAPTER X
+
 
 
 The appearance of the little sitting-room as they entered, was
@@ -8261,7 +8260,7 @@ gates, before they set off for Randalls.
 
 
 
-CHAPTER XI
+
 
 
 It may be possible to do without dancing entirely. Instances have been
@@ -8612,7 +8611,6 @@ her, my dear. That’s right. I knew he would!”
 
 
 
-CHAPTER XII
 
 
 One thing only was wanting to make the prospect of the ball completely
@@ -8851,7 +8849,7 @@ ill-health.
 
 
 
-CHAPTER XIII
+
 
 
 Emma continued to entertain no doubt of her being in love. Her ideas
@@ -9038,7 +9036,7 @@ mention no names; but happy the man who changes Emma for Harriet!”
 
 
 
-CHAPTER XIV
+
 
 
 Mrs. Elton was first seen at church: but though devotion might be
@@ -9433,7 +9431,7 @@ did they occupy her.
 
 
 
-CHAPTER XV
+
 
 
 Emma was not required, by any subsequent discovery, to retract her ill
@@ -9742,7 +9740,7 @@ were to end in his being so at last. Do not beat me.”
 
 
 
-CHAPTER XVI
+
 
 
 Every body in and about Highbury who had ever visited Mr. Elton, was
@@ -10078,7 +10076,7 @@ to the beauty and grace of each.
 
 
 
-CHAPTER XVII
+
 
 
 When the ladies returned to the drawing-room after dinner, Emma found
@@ -10298,7 +10296,7 @@ subject with her.
 
 
 
-CHAPTER XVIII
+
 
 
 “I hope I shall soon have the pleasure of introducing my son to you,”
@@ -10599,7 +10597,7 @@ VOLUME III
 
 
 
-CHAPTER I
+
 
 
 A very little quiet reflection was enough to satisfy Emma as to the
@@ -10723,7 +10721,6 @@ any thing the matter with them, while dear Emma were gone.
 
 
 
-CHAPTER II
 
 
 No misfortune occurred, again to prevent the ball. The day approached,
@@ -11169,7 +11166,7 @@ not really so much brother and sister as to make it at all improper.”
 
 
 
-CHAPTER III
+
 
 
 This little explanation with Mr. Knightley gave Emma considerable
@@ -11333,7 +11330,7 @@ slightest particular from the original recital.
 
 
 
-CHAPTER IV
+
 
 
 A very few days had passed after this adventure, when Harriet came one
@@ -11560,7 +11557,7 @@ be saving her from the danger of degradation.
 
 
 
-CHAPTER V
+
 
 
 In this state of schemes, and hopes, and connivance, June opened upon
@@ -11865,7 +11862,7 @@ leave, and walked home to the coolness and solitude of Donwell Abbey.
 
 
 
-CHAPTER VI
+
 
 
 After being long fed with hopes of a speedy visit from Mr. and Mrs.
@@ -12389,7 +12386,7 @@ Richmond was to take him back before the following evening.
 
 
 
-CHAPTER VII
+
 
 
 They had a very fine day for Box Hill; and all the other outward
@@ -12753,7 +12750,6 @@ to check them, extraordinary as they were.
 
 
 
-CHAPTER VIII
 
 
 The wretchedness of a scheme to Box Hill was in Emma’s thoughts all the
@@ -13022,7 +13018,7 @@ say of the good wishes which she really felt, took leave.
 
 
 
-CHAPTER IX
+
 
 
 Emma’s pensive meditations, as she walked home, were not interrupted;
@@ -13259,7 +13255,7 @@ thing to reprove.
 
 
 
-CHAPTER X
+
 
 
 One morning, about ten days after Mrs. Churchill’s decease, Emma was
@@ -13615,7 +13611,7 @@ thing that Frank could possibly have done.
 
 
 
-CHAPTER XI
+
 
 
 “Harriet, poor Harriet!”—Those were the words; in them lay the
@@ -14041,7 +14037,6 @@ Harriet, from being humble, were grown vain, it was her doing too.
 
 
 
-CHAPTER XII
 
 
 Till now that she was threatened with its loss, Emma had never known
@@ -14320,7 +14315,6 @@ leave her less to regret when it were gone.
 
 
 
-CHAPTER XIII
 
 
 The weather continued much the same all the following morning; and the
@@ -14659,7 +14653,6 @@ fellow.
 
 
 
-CHAPTER XIV
 
 
 What totally different feelings did Emma take back into the house from
@@ -14982,7 +14975,7 @@ F. C. WESTON CHURCHILL.
 
 
 
-CHAPTER XV
+
 
 
 This letter must make its way to Emma’s feelings. She was obliged, in
@@ -15233,7 +15226,7 @@ could be in love with more than _three_ men in one year.
 
 
 
-CHAPTER XVI
+
 
 
 It was a very great relief to Emma to find Harriet as desirous as
@@ -15585,7 +15578,6 @@ open!—Good-bye, good-bye.”
 
 
 
-CHAPTER XVII
 
 
 Mrs. Weston’s friends were all made happy by her safety; and if the
@@ -15888,7 +15880,7 @@ quarter.
 
 
 
-CHAPTER XVIII
+
 
 
 Time passed on. A few more to-morrows, and the party from London would
@@ -16296,7 +16288,6 @@ animated contemplation of his worth which this comparison produced.
 
 
 
-CHAPTER XIX
 
 
 If Emma had still, at intervals, an anxious feeling for Harriet, a

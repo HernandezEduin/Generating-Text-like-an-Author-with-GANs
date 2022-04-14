@@ -2,139 +2,9 @@
 
                            THE SLEEPER AWAKES
 
-              A Revised Edition of "When the Sleeper Wakes"
-
-                               H.G. WELLS
-
-                                  1899
 
 
 
-
-PREFACE TO THE NEW EDITION
-
-_When the Sleeper Wakes_, whose title I have now altered to _The Sleeper
-Awakes_, was first published as a book in 1899 after a serial appearance
-in the _Graphic_ and one or two American and colonial periodicals. It is
-one of the most ambitious and least satisfactory of my books, and I have
-taken the opportunity afforded by this reprinting to make a number of
-excisions and alterations. Like most of my earlier work, it was written
-under considerable pressure; there are marks of haste not only in the
-writing of the latter part, but in the very construction of the story.
-Except for certain streaks of a slovenliness which seems to be an almost
-unavoidable defect in me, there is little to be ashamed of in the writing
-of the opening portion; but it will be fairly manifest to the critic that
-instead of being put aside and thought over through a leisurely
-interlude, the ill-conceived latter part was pushed to its end. I was at
-that time overworked, and badly in need of a holiday. In addition to
-various necessary journalistic tasks, I had in hand another book, _Love
-and Mr. Lewisham_, which had taken a very much stronger hold upon my
-affections than this present story. My circumstances demanded that one or
-other should be finished before I took any rest, and so I wound up the
-Sleeper sufficiently to make it a marketable work, hoping to be able to
-revise it before the book printers at any rate got hold of it. But
-fortune was against me. I came back to England from Italy only to fall
-dangerously ill, and I still remember the impotent rage and strain of my
-attempt to put some sort of finish to my story of Mr. Lewisham, with my
-temperature at a hundred and two. I couldn't endure the thought of
-leaving that book a fragment. I did afterwards contrive to save it from
-the consequences of that febrile spurt--_Love and Mr. Lewisham_ is indeed
-one of my most carefully balanced books--but the Sleeper escaped me.
-
-It is twelve years now since the Sleeper was written, and that young man
-of thirty-one is already too remote for me to attempt any very drastic
-reconstruction of his work. I have played now merely the part of an
-editorial elder brother: cut out relentlessly a number of long tiresome
-passages that showed all too plainly the fagged, toiling brain, the heavy
-sluggish _driven_ pen, and straightened out certain indecisions at the
-end. Except for that, I have done no more than hack here and there at
-clumsy phrases and repetitions. The worst thing in the earlier version,
-and the thing that rankled most in my mind, was the treatment of the
-relations of Helen Wotton and Graham. Haste in art is almost always
-vulgarisation, and I slipped into the obvious vulgarity of making what
-the newspaper syndicates call a "love interest" out of Helen. There was
-even a clumsy intimation that instead of going up in the flying-machine
-to fight, Graham might have given in to Ostrog, and married Helen. I have
-now removed the suggestion of these uncanny connubialities. Not the
-slightest intimation of any sexual interest could in truth have arisen
-between these two. They loved and kissed one another, but as a girl and
-her heroic grandfather might love, and in a crisis kiss. I have found it
-possible, without any very serious disarrangement, to clear all that
-objectionable stuff out of the story, and so a little ease my conscience
-on the score of this ungainly lapse. I have also, with a few strokes of
-the pen, eliminated certain dishonest and regrettable suggestions that
-the People beat Ostrog. My Graham dies, as all his kind must die, with no
-certainty of either victory or defeat.
-
-Who will win--Ostrog or the People? A thousand years hence that will
-still be just the open question we leave to-day.
-
-H.G. WELLS.
-
-
-
-
-CONTENTS
-
-       I. INSOMNIA
-
-      II. THE TRANCE
-
-     III. THE AWAKENING
-
-      IV. THE SOUND OF A TUMULT
-
-       V. THE MOVING WAYS
-
-      VI. THE HALL OF THE ATLAS
-
-     VII. IN THE SILENT ROOMS
-
-    VIII. THE ROOF SPACES
-
-      IX. THE PEOPLE MARCH
-
-       X. THE BATTLE OF THE DARKNESS
-
-      XI. THE OLD MAN WHO KNEW EVERYTHING
-
-     XII. OSTROG
-
-    XIII. THE END OF THE OLD ORDER
-
-     XIV. FROM THE CROW'S NEST
-
-      XV. PROMINENT PEOPLE
-
-     XVI. THE MONOPLANE
-
-    XVII. THREE DAYS
-
-   XVIII. GRAHAM REMEMBERS
-
-     XIX. OSTROG'S POINT OF VIEW
-
-      XX. IN THE CITY WAYS
-
-     XXI. THE UNDER-SIDE
-
-    XXII. THE STRUGGLE IN THE COUNCIL HOUSE
-
-   XXIII. GRAHAM SPEAKS HIS WORD
-
-    XXIV. WHILE THE AEROPLANES WERE COMING
-
-     XXV. THE COMING OF THE AEROPLANES
-
-
-
-
-THE SLEEPER AWAKES
-
-
-
-
-CHAPTER I
 
 INSOMNIA
 
@@ -455,7 +325,7 @@ there a doctor in the village? Where is a doctor to be found?"
 
 
 
-CHAPTER II
+
 
 THE TRANCE
 
@@ -719,7 +589,7 @@ he said at last. He sighed. "He will never awake again."
 
 
 
-CHAPTER III
+
 
 THE AWAKENING
 
@@ -873,7 +743,7 @@ collapsed limply, he staggered forward and fell upon his face.
 
 
 
-CHAPTER IV
+
 
 THE SOUND OF A TUMULT
 
@@ -1413,7 +1283,7 @@ the balcony upon which the three men had been standing.
 
 
 
-CHAPTER V
+
 
 THE MOVING WAYS
 
@@ -1564,7 +1434,7 @@ found himself alone with Howard in a lift and moving swiftly upward.
 
 
 
-CHAPTER VI
+
 
 THE HALL OF THE ATLAS
 
@@ -1937,7 +1807,7 @@ pitifully conspicuous. And all about him, the world was--_strange_.
 
 
 
-CHAPTER VII
+
 
 IN THE SILENT ROOMS
 
@@ -2349,7 +2219,6 @@ a Council had said:
 
 
 
-CHAPTER VIII
 
 THE ROOF SPACES
 
@@ -2831,7 +2700,7 @@ of innumerable men.
 
 
 
-CHAPTER IX
+
 
 THE PEOPLE MARCH
 
@@ -3055,7 +2924,7 @@ flaming spaciousness of hall. Tramp, tramp, tramp, tramp.
 
 
 
-CHAPTER X
+
 
 THE BATTLE OF THE DARKNESS
 
@@ -3444,7 +3313,7 @@ his hands.
 
 
 
-CHAPTER XI
+
 
 THE OLD MAN WHO KNEW EVERYTHING
 
@@ -3921,7 +3790,7 @@ him no more.
 
 
 
-CHAPTER XII
+
 
 OSTROG
 
@@ -4455,7 +4324,7 @@ though every individual of those myriads was watching him.
 
 
 
-CHAPTER XIII
+
 
 THE END OF THE OLD ORDER
 
@@ -4594,7 +4463,7 @@ by--and this as well?
 
 
 
-CHAPTER XIV
+
 
 FROM THE CROW'S NEST
 
@@ -4821,7 +4690,7 @@ of that intricate maze....
 
 
 
-CHAPTER XV
+
 
 PROMINENT PEOPLE
 
@@ -5251,7 +5120,7 @@ warning in her expression, bowed to her and turned to accompany Lincoln.
 
 
 
-CHAPTER XVI
+
 
 THE MONOPLANE
 
@@ -5624,7 +5493,7 @@ the minute oscillation of waved white handkerchiefs and waving hands.
 
 
 
-CHAPTER XVII
+
 
 THREE DAYS
 
@@ -5825,7 +5694,7 @@ see her again until three full days were past.
 
 
 
-CHAPTER XVIII
+
 
 GRAHAM REMEMBERS
 
@@ -6207,7 +6076,7 @@ from her towards the Wind-Vane office.
 
 
 
-CHAPTER XIX
+
 
 OSTROG'S POINT OF VIEW
 
@@ -6480,7 +6349,6 @@ Ostrog resolved not to speak, and bowed deferentially.
 
 
 
-CHAPTER XX
 
 IN THE CITY WAYS
 
@@ -7230,7 +7098,6 @@ He found himself wedged into a straggling mass of people.
 
 
 
-CHAPTER XXI
 
 THE UNDER-SIDE
 
@@ -7478,7 +7345,7 @@ his ward!"
 
 
 
-CHAPTER XXII
+
 
 THE STRUGGLE IN THE COUNCIL HOUSE
 
@@ -7930,7 +7797,7 @@ vague and undecided, was fighting for the whole future of the world.
 
 
 
-CHAPTER XXIII
+
 
 GRAHAM SPEAKS HIS WORD
 
@@ -8104,7 +7971,6 @@ her outstretched hands.
 
 
 
-CHAPTER XXIV
 
 WHILE THE AEROPLANES WERE COMING
 
@@ -8343,7 +8209,6 @@ He could not speak. The gesture of his arm said "Onward."
 
 
 
-CHAPTER XXV
 
 THE COMING OF THE AEROPLANES
 

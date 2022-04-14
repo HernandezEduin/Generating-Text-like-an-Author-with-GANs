@@ -86,7 +86,7 @@ BOOK THE FIRST: POVERTY
 
 
 
-CHAPTER 1. Sun and Shadow
+ Sun and Shadow
 
 
 Thirty years ago, Marseilles lay burning in the sun, one day.
@@ -708,7 +708,7 @@ that it scarcely whispered of the time when it shall give up its dead.
 
 
 
-CHAPTER 2 Fellow Travellers
+Fellow Travellers
 
 
 ‘No more of yesterday’s howling over yonder to-day, Sir; is there?’
@@ -1315,7 +1315,7 @@ another, move all we restless travellers through the pilgrimage of life.
 
 
 
-CHAPTER 3. Home
+ Home
 
 
 It was a Sunday evening in London, gloomy, close, and stale. Maddening
@@ -1920,7 +1920,7 @@ all.
 
 
 
-CHAPTER 4. Mrs Flintwinch has a Dream
+ Mrs Flintwinch has a Dream
 
 
 When Mrs Flintwinch dreamed, she usually dreamed, unlike the son of her
@@ -2064,7 +2064,7 @@ Mrs Flintwinch thanked him and crept into bed.
 
 
 
-CHAPTER 5. Family Affairs
+Family Affairs
 
 
 As the city clocks struck nine on Monday morning, Mrs Clennam was
@@ -2577,7 +2577,7 @@ resolved to watch Little Dorrit and know more of her story.
 
 
 
-CHAPTER 6. The Father of the Marshalsea
+ The Father of the Marshalsea
 
 
 Thirty years ago there stood, a few doors short of the church of Saint
@@ -3053,7 +3053,7 @@ walked so late in the shadows of the yard, and seemed so downcast.
 
 
 
-CHAPTER 7. The Child of the Marshalsea
+The Child of the Marshalsea
 
 
 The baby whose first draught of air had been tinctured with Doctor
@@ -3559,7 +3559,7 @@ Marshalsea.
 
 
 
-CHAPTER 8. The Lock
+The Lock
 
 
 Arthur Clennam stood in the street, waiting to ask some passer-by what
@@ -4059,7 +4059,7 @@ owe on this score!’
 
 
 
-CHAPTER 9. Little Mother
+ Little Mother
 
 
 The morning light was in no hurry to climb the prison wall and look in
@@ -4694,7 +4694,7 @@ tamely fluttered in, he saw it shut again; and then he came away.
 
 
 
-CHAPTER 10. Containing the whole Science of Government
+Containing the whole Science of Government
 
 
 The Circumlocution Office was (as everybody knows without being told)
@@ -5600,7 +5600,7 @@ if she over-did the Circumlocution Office.
 
 
 
-CHAPTER 11. Let Loose
+ Let Loose
 
 
 A late, dull autumn night was closing in upon the river Saone. The
@@ -6077,7 +6077,7 @@ patron.
 
 
 
-CHAPTER 12. Bleeding Heart Yard
+ Bleeding Heart Yard
 
 
 In London itself, though in the old rustic road towards a suburb of note
@@ -6461,7 +6461,7 @@ tune, which were not known by ear in that glorious institution.
 
 
 
-CHAPTER 13. Patriarchal
+ Patriarchal
 
 
 The mention of Mr Casby again revived in Clennam’s memory the
@@ -7467,7 +7467,7 @@ came as if they were an answer:
 
 
 
-CHAPTER 14. Little Dorrit’s Party
+Little Dorrit’s Party
 
 
 Arthur Clennam rose hastily, and saw her standing at the door. This
@@ -8047,7 +8047,7 @@ morning.
 
 
 
-CHAPTER 15. Mrs Flintwinch has another Dream
+Mrs Flintwinch has another Dream
 
 
 The debilitated old house in the city, wrapped in its mantle of soot,
@@ -8463,7 +8463,7 @@ such a dose! You have been dreaming again!’
 
 
 
-CHAPTER 16. Nobody’s Weakness
+ Nobody’s Weakness
 
 
 The time being come for the renewal of his acquaintance with the Meagles
@@ -9077,7 +9077,7 @@ happiness with its insensibility to pain.
 
 
 
-CHAPTER 17. Nobody’s Rival
+ Nobody’s Rival
 
 
 Before breakfast in the morning, Arthur walked out to look about him.
@@ -9496,7 +9496,7 @@ As it was, the rain fell heavily, drearily.
 
 
 
-CHAPTER 18. Little Dorrit’s Lover
+Little Dorrit’s Lover
 
 
 Little Dorrit had not attained her twenty-second birthday without
@@ -9921,7 +9921,7 @@ accordingly directed to be done, By his afflicted Parents.’
 
 
 
-CHAPTER 19. The Father of the Marshalsea in two or three Relations
+The Father of the Marshalsea in two or three Relations
 
 
 The brothers William and Frederick Dorrit, walking up and down the
@@ -10412,7 +10412,7 @@ life!’
 
 
 
-CHAPTER 20. Moving in Society
+ Moving in Society
 
 
 If Young John Chivery had had the inclination and the power to write a
@@ -11019,7 +11019,7 @@ hand. ‘It was not unreasonable in Fanny.’
 
 
 
-CHAPTER 21. Mr Merdle’s Complaint
+ Mr Merdle’s Complaint
 
 
 Upon that establishment of state, the Merdle establishment in Harley
@@ -11382,7 +11382,7 @@ could be seen on the Dorrit Family at any stage of the sun’s course.
 
 
 
-CHAPTER 22. A Puzzle
+  A Puzzle
 
 
 Mr Clennam did not increase in favour with the Father of the Marshalsea
@@ -11789,7 +11789,7 @@ the Marshalsea wall.
 
 
 
-CHAPTER 23. Machinery in Motion
+Machinery in Motion
 
 
 Mr Meagles bestirred himself with such prompt activity in the matter of
@@ -12523,7 +12523,7 @@ myself, that you ought to have got much more money, much more money.’
 
 
 
-CHAPTER 24. Fortune-Telling
+Fortune-Telling
 
 
 Little Dorrit received a call that same evening from Mr Plornish, who,
@@ -13263,7 +13263,7 @@ us come away from the window.’
 
 
 
-CHAPTER 25. Conspirators and Others
+Conspirators and Others
 
 
 The private residence of Mr Pancks was in Pentonville, where he lodged
@@ -13690,7 +13690,7 @@ appearance of being lightened and refreshed.
 
 
 
-CHAPTER 26. Nobody’s State of Mind
+ Nobody’s State of Mind
 
 
 If Arthur Clennam had not arrived at that wise decision firmly to
@@ -14310,7 +14310,7 @@ my mother must have bored you dreadfully.’
 
 
 
-CHAPTER 27. Five-and-Twenty
+Five-and-Twenty
 
 A frequently recurring doubt, whether Mr Pancks’s desire to collect
 information relative to the Dorrit family could have any possible
@@ -14861,8 +14861,7 @@ fortune that awaits her.’
 
 
 
-
-CHAPTER 28. Nobody’s Disappearance
+Nobody’s Disappearance
 
 
 Not resting satisfied with the endeavours he had made to recover his
@@ -15190,7 +15189,7 @@ breasts, and near our hearts, flow from us to the eternal seas.
 
 
 
-CHAPTER 29. Mrs Flintwinch goes on Dreaming
+Mrs Flintwinch goes on Dreaming
 
 
 The house in the city preserved its heavy dulness through all these
@@ -15567,7 +15566,7 @@ it? What is it? Why does no one answer? Who _is_ that, down there?’
 
 
 
-CHAPTER 30. The Word of a Gentleman
+The Word of a Gentleman
 
 
 When Mr and Mrs Flintwinch panted up to the door of the old house in the
@@ -16301,7 +16300,7 @@ occasion, and would be seen again.
 
 
 
-CHAPTER 31. Spirit
+Spirit
 
 
 Anybody may pass, any day, in the thronged thoroughfares of the
@@ -16991,7 +16990,7 @@ was by.
 
 
 
-CHAPTER 32. More Fortune-Telling
+More Fortune-Telling
 
 
 Maggy sat at her work in her great white cap with its quantity of opaque
@@ -17442,7 +17441,7 @@ have to break to her. That man’s your Father of the Marshalsea!’
 
 
 
-CHAPTER 33. Mrs Merdle’s Complaint
+Mrs Merdle’s Complaint
 
 
 Resigning herself to inevitable fate by making the best of those people,
@@ -17911,7 +17910,7 @@ rushlight, by the chief butler, went sighing to bed.
 
 
 
-CHAPTER 34. A Shoal of Barnacles
+A Shoal of Barnacles
 
 
 Mr Henry Gowan and the dog were established frequenters of the cottage,
@@ -18304,7 +18303,7 @@ remark in the course of the evening. ‘Such high company!’
 
 
 
-CHAPTER 35. What was behind Mr Pancks on Little Dorrit’s Hand
+ What was behind Mr Pancks on Little Dorrit’s Hand
 
 
 It was at this time that Mr Pancks, in discharge of his compact with
@@ -18904,7 +18903,7 @@ prison, carrying the quiet with him into the turbulent streets.
 
 
 
-CHAPTER 36. The Marshalsea becomes an Orphan
+The Marshalsea becomes an Orphan
 
 
 And now the day arrived when Mr Dorrit and his family were to leave the
@@ -19219,7 +19218,7 @@ BOOK THE SECOND: RICHES
 
 
 
-CHAPTER 1. Fellow Travellers
+Fellow Travellers
 
 
 In the autumn of the year, Darkness and Night were creeping up to the
@@ -19975,7 +19974,7 @@ going up and under his nose, repaired to his allotted cell.
 
 
 
-CHAPTER 2. Mrs General
+Mrs General
 
 
 It is indispensable to present the accomplished lady who was of
@@ -20163,8 +20162,7 @@ falling on his house-top.
 
 
 
-
-CHAPTER 3. On the Road
+On the Road
 
 
 The bright morning sun dazzled the eyes, the snow had ceased, the mists
@@ -20829,7 +20827,7 @@ and the old visitors: all lasting realities that had never changed.
 
 
 
-CHAPTER 4. A Letter from Little Dorrit
+A Letter from Little Dorrit
 
 
 Dear Mr Clennam,
@@ -20977,7 +20975,7 @@ beautiful.
 
 
 
-CHAPTER 5. Something Wrong Somewhere
+Something Wrong Somewhere
 
 
 The family had been a month or two at Venice, when Mr Dorrit, who was
@@ -21671,7 +21669,7 @@ alternately giving her brooches, and wishing herself dead.
 
 
 
-CHAPTER 6. Something Right Somewhere
+Something Right Somewhere
 
 
 To be in the halting state of Mr Henry Gowan; to have left one of two
@@ -22359,7 +22357,7 @@ Doges!’
 
 
 
-CHAPTER 7. Mostly, Prunes and Prism
+Mostly, Prunes and Prism
 
 
 Mrs General, always on her coach-box keeping the proprieties well
@@ -22864,7 +22862,7 @@ shining light of the time.
 
 
 
-CHAPTER 8. The Dowager Mrs Gowan is reminded that ‘It Never Does’
+ The Dowager Mrs Gowan is reminded that ‘It Never Does’
 
 
 While the waters of Venice and the ruins of Rome were sunning themselves
@@ -23386,7 +23384,7 @@ the affirmative.
 
 
 
-CHAPTER 9. Appearance and Disappearance
+ Appearance and Disappearance
 
 
 ‘Arthur, my dear boy,’ said Mr Meagles, on the evening of the following
@@ -24091,7 +24089,7 @@ times and steamed away.
 
 
 
-CHAPTER 10. The Dreams of Mrs Flintwinch thicken
+The Dreams of Mrs Flintwinch thicken
 
 
 The shady waiting-rooms of the Circumlocution Office, where he passed a
@@ -24442,9 +24440,7 @@ seemed to say a response after Affery, and to mutter, ‘Don’t ask me
 anything. Go away!’
 
 
-
-
-CHAPTER 11. A Letter from Little Dorrit
+ A Letter from Little Dorrit
 
 
 Dear Mr Clennam,
@@ -24681,7 +24677,7 @@ good to Little D.
 
 
 
-CHAPTER 12. In which a Great Patriotic Conference is holden
+ In which a Great Patriotic Conference is holden
 
 
 The famous name of Merdle became, every day, more famous in the land.
@@ -25300,8 +25296,7 @@ about it, and might have stated the amount with the utmost precision.
 
 
 
-
-CHAPTER 13. The Progress of an Epidemic
+ The Progress of an Epidemic
 
 
 That it is at least as difficult to stay a moral infection as a physical
@@ -25995,7 +25990,7 @@ of sickening.
 
 
 
-CHAPTER 14. Taking Advice
+ Taking Advice
 
 
 When it became known to the Britons on the shore of the yellow Tiber
@@ -26486,7 +26481,7 @@ imperious self-willed step.
 
 
 
-CHAPTER 15. No just Cause or Impediment why these Two Persons
+ No just Cause or Impediment why these Two Persons
 should not be joined together
 
 
@@ -27196,7 +27191,7 @@ whole without any human visitings--like a Ghoule in gloves.
 
 
 
-CHAPTER 16. Getting on
+ Getting on
 
 
 The newly married pair, on their arrival in Harley Street, Cavendish
@@ -27512,7 +27507,7 @@ slightest liberty.
 
 
 
-CHAPTER 17. Missing
+ Missing
 
 
 The term of Mr Dorrit’s visit was within two days of being out, and he
@@ -27977,7 +27972,7 @@ buried in the cellar, and now bricked up in a wall.
 
 
 
-CHAPTER 18. A Castle in the Air
+ A Castle in the Air
 
 
 Manifold are the cares of wealth and state. Mr Dorrit’s satisfaction in
@@ -28303,7 +28298,7 @@ the filth that festered on the way.
 
 
 
-CHAPTER 19. The Storming of the Castle in the Air
+ The Storming of the Castle in the Air
 
 
 The sun had gone down full four hours, and it was later than most
@@ -28998,7 +28993,7 @@ obscurities.
 
 
 
-CHAPTER 20. Introduces the next
+ Introduces the next
 
 
 The passengers were landing from the packet on the pier at Calais.
@@ -29467,7 +29462,7 @@ paper, and read in them what is reproduced in the next chapter.
 
 
 
-CHAPTER 21. The History of a Self-Tormentor
+ The History of a Self-Tormentor
 
 
 I have the misfortune of not being a fool. From a very early age I have
@@ -29854,7 +29849,7 @@ We have been together ever since, sharing my small means.
 
 
 
-CHAPTER 22. Who passes by this Road so late?
+ Who passes by this Road so late?
 
 
 Arthur Clennam had made his unavailing expedition to Calais in the midst
@@ -30178,7 +30173,7 @@ But, courage! Enough! It matters not! I go, in this instant of time!’
 
 
 
-CHAPTER 23. Mistress Affery makes a Conditional Promise,
+ Mistress Affery makes a Conditional Promise,
 respecting her Dreams
 
 
@@ -30792,7 +30787,7 @@ exemplar of both that one would have liked to have a copy of.
 
 
 
-CHAPTER 24. The Evening of a Long Day
+ The Evening of a Long Day
 
 
 That illustrious man and great national ornament, Mr Merdle, continued
@@ -31285,7 +31280,7 @@ and waltz, and gyrate, as if he were possessed of several Devils.
 
 
 
-CHAPTER 25. The Chief Butler Resigns the Seals of Office
+ The Chief Butler Resigns the Seals of Office
 
 
 The dinner-party was at the great Physician’s. Bar was there, and in
@@ -31687,7 +31682,7 @@ ever cheated the gallows.
 
 
 
-CHAPTER 26. Reaping the Whirlwind
+Reaping the Whirlwind
 
 
 With a precursory sound of hurried breath and hurried feet, Mr Pancks
@@ -32097,7 +32092,7 @@ Dorrit!’
 
 
 
-CHAPTER 27. The Pupil of the Marshalsea
+The Pupil of the Marshalsea
 
 
 The day was sunny, and the Marshalsea, with the hot noon striking
@@ -32759,7 +32754,7 @@ the following monumental inscription on his pillow--
 
 
 
-CHAPTER 28. An Appearance in the Marshalsea
+An Appearance in the Marshalsea
 
 
 The opinion of the community outside the prison gates bore hard on
@@ -33629,7 +33624,7 @@ miserable and fallen than before, was left alone again.
 
 
 
-CHAPTER 29. A Plea in the Marshalsea
+ A Plea in the Marshalsea
 
 
 Haggard anxiety and remorse are bad companions to be barred up with.
@@ -34028,7 +34023,7 @@ devotion, for the same purpose.
 
 
 
-CHAPTER 30. Closing in
+ Closing in
 
 
 The last day of the appointed week touched the bars of the Marshalsea
@@ -35072,7 +35067,7 @@ satisfaction.
 
 
 
-CHAPTER 31. Closed
+ Closed
 
 
 The sun had set, and the streets were dim in the dusty twilight, when
@@ -35478,7 +35473,7 @@ style and designation of Mynheer von Flyntevynge.
 
 
 
-CHAPTER 32. Going
+ Going
 
 
 Arthur continuing to lie very ill in the Marshalsea, and Mr Rugg
@@ -35813,7 +35808,7 @@ again.
 
 
 
-CHAPTER 33. Going!
+Going!
 
 
 The changes of a fevered room are slow and fluctuating; but the changes
@@ -36267,7 +36262,7 @@ made the most of it, who could blame him?
 
 
 
-CHAPTER 34. Gone
+ Gone
 
 
 On a healthy autumn day, the Marshalsea prisoner, weak but otherwise

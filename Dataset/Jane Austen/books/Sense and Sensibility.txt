@@ -1,6 +1,6 @@
 ﻿Sense and Sensibility
 
-CHAPTER I.
+
 
 
 The family of Dashwood had long been settled in Sussex. Their estate
@@ -154,7 +154,7 @@ her sisters at a more advanced period of life.
 
 
 
-CHAPTER II.
+
 
 
 Mrs. John Dashwood now installed herself mistress of Norland; and her
@@ -358,7 +358,7 @@ his own wife pointed out.
 
 
 
-CHAPTER III.
+
 
 
 Mrs. Dashwood remained at Norland several months; not from any
@@ -523,7 +523,7 @@ destiny be different from hers!”
 
 
 
-CHAPTER IV.
+
 
 
 “What a pity it is, Elinor,” said Marianne, “that Edward should have no
@@ -719,7 +719,7 @@ sending a letter of acquiescence.
 
 
 
-CHAPTER V.
+
 
 
 No sooner was her answer dispatched, than Mrs. Dashwood indulged
@@ -821,7 +821,7 @@ you?”
 
 
 
-CHAPTER VI.
+
 
 
 The first part of their journey was performed in too melancholy a
@@ -950,7 +950,7 @@ securing their promise of dining at the park the next day.
 
 
 
-CHAPTER VII.
+
 
 
 Barton Park was about half a mile from the cottage. The ladies had
@@ -1077,7 +1077,7 @@ required.
 
 
 
-CHAPTER VIII.
+
 
 
 Mrs. Jennings was a widow with an ample jointure. She had only two
@@ -1210,7 +1210,7 @@ avoid society, or appear restless and dissatisfied in it?”
 
 
 
-CHAPTER IX.
+
 
 
 The Dashwoods were now settled at Barton with tolerable comfort to
@@ -1415,7 +1415,7 @@ spraining of ankles.”
 
 
 
-CHAPTER X.
+
 
 
 Marianne’s preserver, as Margaret, with more elegance than precision,
@@ -1633,7 +1633,7 @@ privilege of disliking him as much as ever.”
 
 
 
-CHAPTER XI.
+
 
 
 Little had Mrs. Dashwood or her daughters imagined when they first came
@@ -1784,7 +1784,7 @@ established in the most melancholy order of disastrous love.
 
 
 
-CHAPTER XII.
+
 
 
 As Elinor and Marianne were walking together the next morning the
@@ -1965,7 +1965,7 @@ persuaded by Elinor to stay at home.
 
 
 
-CHAPTER XIII.
+
 
 
 Their intended excursion to Whitwell turned out very different from
@@ -2250,7 +2250,7 @@ she would have described every room in the house with equal delight.
 
 
 
-CHAPTER XIV.
+
 
 
 The sudden termination of Colonel Brandon’s visit at the park, with his
@@ -2410,7 +2410,6 @@ He engaged to be with them by four o’clock.
 
 
 
-CHAPTER XV.
 
 
 Mrs. Dashwood’s visit to Lady Middleton took place the next day, and
@@ -2690,7 +2689,7 @@ connected with him.
 
 
 
-CHAPTER XVI.
+
 
 
 Marianne would have thought herself very inexcusable had she been able
@@ -2918,7 +2917,7 @@ as she thought he ought to be treated from the family connection.
 
 
 
-CHAPTER XVII.
+
 
 
 Mrs. Dashwood was surprised only for a moment at seeing him; for his
@@ -3126,7 +3125,7 @@ in their fullest extent—and he sat for some time silent and dull.
 
 
 
-CHAPTER XVIII.
+
 
 
 Elinor saw, with great uneasiness the low spirits of her friend. His
@@ -3302,7 +3301,7 @@ mention it.
 
 
 
-CHAPTER XIX.
+
 
 
 Edward remained a week at the cottage; he was earnestly pressed by Mrs.
@@ -3604,7 +3603,7 @@ grown tedious and dull. We must look for the change elsewhere.”
 
 
 
-CHAPTER XX.
+
 
 
 As the Miss Dashwoods entered the drawing-room of the park the next
@@ -3886,7 +3885,7 @@ the kind of man I like.”
 
 
 
-CHAPTER XXI.
+
 
 
 The Palmers returned to Cleveland the next day, and the two families at
@@ -4189,7 +4188,7 @@ openly mentioned by Sir John.
 
 
 
-CHAPTER XXII.
+
 
 
 Marianne, who had never much toleration for any thing like
@@ -4503,7 +4502,7 @@ END OF THE FIRST VOLUME
 
 
 
-CHAPTER XXIII.
+
 
 
 However small Elinor’s general dependence on Lucy’s veracity might be,
@@ -4739,7 +4738,6 @@ subject, without any risk of being heard at the card-table.
 
 
 
-CHAPTER XXIV.
 
 
 In a firm, though cautious tone, Elinor thus began.
@@ -4974,7 +4972,7 @@ balls and large dinners to proclaim its importance.
 
 
 
-CHAPTER XXV.
+
 
 
 Though Mrs. Jennings was in the habit of spending a large portion of
@@ -5170,7 +5168,7 @@ the park, and were to quit it only with the rest of the family.
 
 
 
-CHAPTER XXVI.
+
 
 
 Elinor could not find herself in the carriage with Mrs. Jennings, and
@@ -5428,7 +5426,6 @@ in hopes of distinguishing the long-expected rap.
 
 
 
-CHAPTER XXVII.
 
 
 “If this open weather holds much longer,” said Mrs. Jennings, when they
@@ -5708,7 +5705,7 @@ anxiety for the very event that must confirm it.
 
 
 
-CHAPTER XXVIII.
+
 
 
 Nothing occurred during the next three or four days, to make Elinor
@@ -5860,7 +5857,7 @@ irreconcilable rupture with him.
 
 
 
-CHAPTER XXIX.
+
 
 
 Before the housemaid had lit their fire the next day, or the sun gained
@@ -6291,7 +6288,7 @@ returned, she continued on the bed quiet and motionless.
 
 
 
-CHAPTER XXX.
+
 
 
 Mrs. Jennings came immediately to their room on her return, and without
@@ -6595,7 +6592,6 @@ more serious and thoughtful than usual.
 
 
 
-CHAPTER XXXI.
 
 
 From a night of more sleep than she had expected, Marianne awoke the
@@ -6972,7 +6968,7 @@ and esteem for him.
 
 
 
-CHAPTER XXXII.
+
 
 
 When the particulars of this conversation were repeated by Miss
@@ -7247,7 +7243,7 @@ other.
 
 
 
-CHAPTER XXXIII.
+
 
 
 After some opposition, Marianne yielded to her sister’s entreaties, and
@@ -7570,7 +7566,7 @@ carry her a most satisfactory account of both.”
 
 
 
-CHAPTER XXXIV.
+
 
 
 Mrs. John Dashwood had so much confidence in her husband’s judgment,
@@ -7859,7 +7855,7 @@ you see it is all gone.”
 
 
 
-CHAPTER XXXV.
+
 
 
 Elinor’s curiosity to see Mrs. Ferrars was satisfied. She had found in
@@ -8121,7 +8117,7 @@ expect.
 
 
 
-CHAPTER XXXVI.
+
 
 
 Within a few days after this meeting, the newspapers announced to the
@@ -8421,7 +8417,7 @@ END OF THE SECOND VOLUME
 
 
 
-CHAPTER XXXVII.
+
 
 
 Mrs. Palmer was so well at the end of a fortnight, that her mother felt
@@ -8864,7 +8860,7 @@ party.
 
 
 
-CHAPTER XXXVIII.
+
 
 
 Mrs. Jennings was very warm in her praise of Edward’s conduct, but only
@@ -9162,7 +9158,7 @@ letter as ever I saw, and does Lucy’s head and heart great credit.”
 
 
 
-CHAPTER XXXIX.
+
 
 
 The Miss Dashwoods had now been rather more than two months in town,
@@ -9365,7 +9361,7 @@ properly worded than if it had arisen from an offer of marriage.
 
 
 
-CHAPTER XL.
+
 
 
 “Well, Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
@@ -9665,7 +9661,7 @@ waiting for any thing more.
 
 
 
-CHAPTER XLI.
+
 
 
 Edward, having carried his thanks to Colonel Brandon, proceeded with
@@ -9935,7 +9931,7 @@ that was most affectionate and graceful.
 
 
 
-CHAPTER XLII.
+
 
 
 One other short call in Harley Street, in which Elinor received her
@@ -10115,7 +10111,7 @@ to bed, to try one or two of the simplest of the remedies.
 
 
 
-CHAPTER XLIII.
+
 
 
 Marianne got up the next morning at her usual time; to every inquiry
@@ -10448,7 +10444,7 @@ drawing-room,—she entered it,—and saw only Willoughby.
 
 
 
-CHAPTER XLIV.
+
 
 
 Elinor, starting back with a look of horror at the sight of him, obeyed
@@ -11019,8 +11015,6 @@ And with these words, he almost ran out of the room.
 
 
 
-CHAPTER XLV.
-
 
 Elinor, for some time after he left her, for some time even after the
 sound of his carriage had died away, remained too much oppressed by a
@@ -11236,7 +11230,7 @@ friend, and yet in wishing it, to feel a pang for Willoughby.
 
 
 
-CHAPTER XLVI.
+
 
 
 Marianne’s illness, though weakening in its kind, had not been long
@@ -11529,7 +11523,7 @@ injunction.
 
 
 
-CHAPTER XLVII.
+
 
 
 Mrs. Dashwood did not hear unmoved the vindication of her former
@@ -11793,7 +11787,7 @@ with less self-provocation, and greater fortitude.
 
 
 
-CHAPTER XLVIII.
+
 
 
 Elinor now found the difference between the expectation of an
@@ -11942,7 +11936,7 @@ lessening but by their own conjectures.
 
 
 
-CHAPTER XLIX.
+
 
 
 Unaccountable, however, as the circumstances of his release might
@@ -12361,7 +12355,6 @@ nights, he was to proceed on his journey to town.
 
 
 
-CHAPTER L.
 
 
 After a proper resistance on the part of Mrs. Ferrars, just so violent

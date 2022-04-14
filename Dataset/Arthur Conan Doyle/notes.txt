@@ -1,0 +1,11 @@
+train data: ~3.4 MB
+	A Study in Scarlet
+	The Adventures of Sherlock Holmes
+	The Great Boer War
+	The Hound of the Baskervilles
+	The Lost World
+	The Return of Sherlock Holmes
+
+test data: ~1MB
+	The Sign of the Four
+	The White Company
