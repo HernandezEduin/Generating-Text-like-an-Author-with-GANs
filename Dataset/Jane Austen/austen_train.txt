@@ -1,12 +1,5 @@
 Emma
 
-VOLUME I
-
-
-
-
-CHAPTER I
-
 
 Emma Woodhouse, handsome, clever, and rich, with a comfortable home and
 happy disposition, seemed to unite some of the best blessings of
@@ -339,8 +332,6 @@ man of six or seven-and-twenty can take care of himself.”
 
 
 
-CHAPTER II
-
 
 Mr. Weston was a native of Highbury, and born of a respectable family,
 which for the last two or three generations had been rising into
@@ -504,9 +495,6 @@ seen with a slice of Mrs. Weston’s wedding-cake in their hands: but Mr.
 Woodhouse would never believe it.
 
 
-
-
-CHAPTER III
 
 
 Mr. Woodhouse was fond of society in his own way. He liked very much to
@@ -686,9 +674,6 @@ Miss Woodhouse had treated her all the evening, and actually shaken
 hands with her at last!
 
 
-
-
-CHAPTER IV
 
 
 Harriet Smith’s intimacy at Hartfield was soon a settled thing. Quick
@@ -1035,9 +1020,6 @@ by Mr. Elton’s admiration.
 
 
 
-CHAPTER V
-
-
 “I do not know what your opinion may be, Mrs. Weston,” said Mr.
 Knightley, “of this great intimacy between Emma and Harriet Smith, but
 I think it a bad thing.”
@@ -1236,10 +1218,6 @@ afterwards made to “What does Weston think of the weather; shall we
 have rain?” convinced her that he had nothing more to say or surmise
 about Hartfield.
 
-
-
-
-CHAPTER VI
 
 
 Emma could not feel a doubt of having given Harriet’s fancy a proper
@@ -1526,10 +1504,6 @@ But it is his gratitude on Harriet’s account.”
 
 
 
-
-CHAPTER VII
-
-
 The very day of Mr. Elton’s going to London produced a fresh occasion
 for Emma’s services towards her friend. Harriet had been at Hartfield,
 as usual, soon after breakfast; and, after a time, had gone home to
@@ -1788,10 +1762,6 @@ their imaginations all are!”
 
 Harriet smiled again, and her smiles grew stronger.
 
-
-
-
-CHAPTER VIII
 
 
 Harriet slept at Hartfield that night. For some weeks past she had been
@@ -2214,10 +2184,6 @@ she only knew that any woman whom Mr. Elton could prefer, she should
 think the luckiest woman in the world; for, beyond a doubt, Mr. Elton
 had not his equal for beauty or agreeableness.”
 
-
-
-
-CHAPTER IX
 
 
 Mr. Knightley might quarrel with her, but Emma could not quarrel with
@@ -2777,9 +2743,6 @@ the sublime of pleasure to Harriet’s share.
 
 
 
-CHAPTER X
-
-
 Though now the middle of December, there had yet been no weather to
 prevent the young ladies from tolerably regular exercise; and on the
 morrow, Emma had a charitable visit to pay to a poor sick family, who
@@ -3048,10 +3011,6 @@ them forward to the great event.
 
 
 
-
-CHAPTER XI
-
-
 Mr. Elton must now be left to himself. It was no longer in Emma’s power
 to superintend his happiness or quicken his measures. The coming of her
 sister’s family was so very near at hand, that first in anticipation,
@@ -3263,9 +3222,6 @@ the common rate of social intercourse, and those to whom it was
 important.—It had a high claim to forbearance.
 
 
-
-
-CHAPTER XII
 
 
 Mr. Knightley was to dine with them—rather against the inclination of
@@ -3614,10 +3570,6 @@ other, prevented any renewal of it.
 
 
 
-
-CHAPTER XIII
-
-
 There could hardly be a happier creature in the world than Mrs. John
 Knightley, in this short visit to Hartfield, going about every morning
 among her old acquaintance with her five children, and talking over
@@ -3929,9 +3881,6 @@ the sweep-gate, “will be to find myself safe at Hartfield again.”
 
 
 
-CHAPTER XIV
-
-
 Some change of countenance was necessary for each gentleman as they
 walked into Mrs. Weston’s drawing-room;—Mr. Elton must compose his
 joyous looks, and Mr. John Knightley disperse his ill-humour. Mr. Elton
@@ -4166,9 +4115,6 @@ beyond his reach, it is but too likely, may be this very circumstance
 of his coming away from them to visit us.”
 
 
-
-
-CHAPTER XV
 
 
 Mr. Woodhouse was soon ready for his tea; and when he had drank his tea
@@ -4496,9 +4442,6 @@ reflection.
 
 
 
-CHAPTER XVI
-
-
 The hair was curled, and the maid sent away, and Emma sat down to think
 and be miserable.—It was a wretched business indeed!—Such an overthrow
 of every thing she had been wishing for!—Such a development of every
@@ -4685,9 +4628,6 @@ as made it impossible for Emma to be ever perfectly at ease.
 
 
 
-CHAPTER XVII
-
-
 Mr. and Mrs. John Knightley were not detained long at Hartfield. The
 weather soon improved enough for those to move who must move; and Mr.
 Woodhouse having, as usual, tried to persuade his daughter to stay
@@ -4809,9 +4749,6 @@ found if anywhere; and Emma felt that, till she saw her in the way of
 cure, there could be no true peace for herself.
 
 
-
-
-CHAPTER XVIII
 
 
 Mr. Frank Churchill did not come. When the time proposed drew near,
@@ -5067,15 +5004,6 @@ high opinion of himself, which she had often laid to his charge, she
 had never before for a moment supposed it could make him unjust to the
 merit of another.
 
-
-
-
-VOLUME II
-
-
-
-
-CHAPTER I
 
 
 Emma and Harriet had been walking together one morning, and, in Emma’s
@@ -5358,9 +5286,6 @@ Jane Fairfax’s letter, she had been able to escape the letter itself.
 
 
 
-CHAPTER II
-
-
 Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest
 daughter.
 
@@ -5588,9 +5513,6 @@ they had yet had of Mr. Churchill. She believed every body found his
 manners pleasing.” Emma could not forgive her.
 
 
-
-
-CHAPTER III
 
 
 Emma could not forgive her;—but as neither provocation nor resentment
@@ -5983,10 +5905,6 @@ any necessity, or even any power of speech.
 
 
 
-
-CHAPTER IV
-
-
 Human nature is so well disposed towards those who are in interesting
 situations, that a young person, who either marries or dies, is sure of
 being kindly spoken of.
@@ -6144,10 +6062,6 @@ She could think of nothing better: and though there was something in it
 which her own heart could not approve—something of ingratitude, merely
 glossed over—it must be done, or what would become of Harriet?
 
-
-
-
-CHAPTER V
 
 
 Small heart had Harriet for visiting. Only half an hour before her
@@ -6489,10 +6403,6 @@ with full confidence in their comfort.
 
 
 
-
-CHAPTER VI
-
-
 The next morning brought Mr. Frank Churchill again. He came with Mrs.
 Weston, to whom and to Highbury he seemed to take very cordially. He
 had been sitting with her, it appeared, most companionably at home,
@@ -6800,9 +6710,6 @@ be allowed an early establishment.
 
 
 
-CHAPTER VII
-
-
 Emma’s very good opinion of Frank Churchill was a little shaken the
 following day, by hearing that he was gone off to London, merely to
 have his hair cut. A sudden freak seemed to have seized him at
@@ -7020,10 +6927,6 @@ hungry, that she would take something to eat; that her own maid should
 sit up for her; and that Serle and the butler should see that every
 thing were safe in the house, as usual.
 
-
-
-
-CHAPTER VIII
 
 
 Frank Churchill came back again; and if he kept his father’s dinner
@@ -7692,9 +7595,6 @@ would not have agreed with me, after yours.”
 
 
 
-CHAPTER IX
-
-
 Emma did not repent her condescension in going to the Coles. The visit
 afforded her many pleasant recollections the next day; and all that she
 might be supposed to have lost on the side of dignified seclusion, must
@@ -8019,10 +7919,6 @@ Smith, the step at the turning.”
 
 
 
-
-CHAPTER X
-
-
 The appearance of the little sitting-room as they entered, was
 tranquillity itself; Mrs. Bates, deprived of her usual employment,
 slumbering on one side of the fire, Frank Churchill, at a table near
@@ -8258,10 +8154,6 @@ be gone, that Mrs. Weston and her companion taking leave also, could
 allow themselves only to walk with the two young ladies to Hartfield
 gates, before they set off for Randalls.
 
-
-
-
-CHAPTER XI
 
 
 It may be possible to do without dancing entirely. Instances have been
@@ -8611,10 +8503,6 @@ her, my dear. That’s right. I knew he would!”
 
 
 
-
-CHAPTER XII
-
-
 One thing only was wanting to make the prospect of the ball completely
 satisfactory to Emma—its being fixed for a day within the granted term
 of Frank Churchill’s stay in Surry; for, in spite of Mr. Weston’s
@@ -8851,9 +8739,6 @@ ill-health.
 
 
 
-CHAPTER XIII
-
-
 Emma continued to entertain no doubt of her being in love. Her ideas
 only varied as to the how much. At first, she thought it was a good
 deal; and afterwards, but little. She had great pleasure in hearing
@@ -9036,9 +8921,6 @@ hundred such—And for a wife—a sensible man’s wife—it is invaluable. I
 mention no names; but happy the man who changes Emma for Harriet!”
 
 
-
-
-CHAPTER XIV
 
 
 Mrs. Elton was first seen at church: but though devotion might be
@@ -9433,9 +9315,6 @@ did they occupy her.
 
 
 
-CHAPTER XV
-
-
 Emma was not required, by any subsequent discovery, to retract her ill
 opinion of Mrs. Elton. Her observation had been pretty correct. Such as
 Mrs. Elton appeared to her on this second interview, such she appeared
@@ -9740,9 +9619,6 @@ idea of _not_ being in love with her, that I should not wonder if it
 were to end in his being so at last. Do not beat me.”
 
 
-
-
-CHAPTER XVI
 
 
 Every body in and about Highbury who had ever visited Mr. Elton, was
@@ -10078,9 +9954,6 @@ to the beauty and grace of each.
 
 
 
-CHAPTER XVII
-
-
 When the ladies returned to the drawing-room after dinner, Emma found
 it hardly possible to prevent their making two distinct parties;—with
 so much perseverance in judging and behaving ill did Mrs. Elton engross
@@ -10295,10 +10168,6 @@ been too positive an interruption; and finding himself close to Mrs.
 Elton, and her attention disengaged, he necessarily began on the
 subject with her.
 
-
-
-
-CHAPTER XVIII
 
 
 “I hope I shall soon have the pleasure of introducing my son to you,”
@@ -10592,16 +10461,6 @@ Mr. Knightley seemed to be trying not to smile; and succeeded without
 difficulty, upon Mrs. Elton’s beginning to talk to him.
 
 
-
-
-VOLUME III
-
-
-
-
-CHAPTER I
-
-
 A very little quiet reflection was enough to satisfy Emma as to the
 nature of her agitation on hearing this news of Frank Churchill. She
 was soon convinced that it was not for herself she was feeling at all
@@ -10720,10 +10579,6 @@ spend the evening at Hartfield, James had due notice, and he sanguinely
 hoped that neither dear little Henry nor dear little John would have
 any thing the matter with them, while dear Emma were gone.
 
-
-
-
-CHAPTER II
 
 
 No misfortune occurred, again to prevent the ball. The day approached,
@@ -11169,9 +11024,6 @@ not really so much brother and sister as to make it at all improper.”
 
 
 
-CHAPTER III
-
-
 This little explanation with Mr. Knightley gave Emma considerable
 pleasure. It was one of the agreeable recollections of the ball, which
 she walked about the lawn the next morning to enjoy.—She was extremely
@@ -11331,9 +11183,6 @@ gipsies, and still tenaciously setting her right if she varied in the
 slightest particular from the original recital.
 
 
-
-
-CHAPTER IV
 
 
 A very few days had passed after this adventure, when Harriet came one
@@ -11558,9 +11407,6 @@ friend. Its tendency would be to raise and refine her mind—and it must
 be saving her from the danger of degradation.
 
 
-
-
-CHAPTER V
 
 
 In this state of schemes, and hopes, and connivance, June opened upon
@@ -11862,10 +11708,6 @@ fever, by the fire which Mr. Woodhouse’s tender habits required almost
 every evening throughout the year, he soon afterwards took a hasty
 leave, and walked home to the coolness and solitude of Donwell Abbey.
 
-
-
-
-CHAPTER VI
 
 
 After being long fed with hopes of a speedy visit from Mr. and Mrs.
@@ -12387,11 +12229,6 @@ She smiled her acceptance; and nothing less than a summons from
 Richmond was to take him back before the following evening.
 
 
-
-
-CHAPTER VII
-
-
 They had a very fine day for Box Hill; and all the other outward
 circumstances of arrangement, accommodation, and punctuality, were in
 favour of a pleasant party. Mr. Weston directed the whole, officiating
@@ -12751,11 +12588,6 @@ down her cheeks almost all the way home, without being at any trouble
 to check them, extraordinary as they were.
 
 
-
-
-CHAPTER VIII
-
-
 The wretchedness of a scheme to Box Hill was in Emma’s thoughts all the
 evening. How it might be considered by the rest of the party, she could
 not tell. They, in their different homes, and their different ways,
@@ -13022,9 +12854,6 @@ say of the good wishes which she really felt, took leave.
 
 
 
-CHAPTER IX
-
-
 Emma’s pensive meditations, as she walked home, were not interrupted;
 but on entering the parlour, she found those who must rouse her. Mr.
 Knightley and Harriet had arrived during her absence, and were sitting
@@ -13256,10 +13085,6 @@ privy to all her attempts of assisting Jane Fairfax, could he even have
 seen into her heart, he would not, on this occasion, have found any
 thing to reprove.
 
-
-
-
-CHAPTER X
 
 
 One morning, about ten days after Mrs. Churchill’s decease, Emma was
@@ -13612,10 +13437,6 @@ it all over again with Emma, in their walk back to Hartfield, he was
 become perfectly reconciled, and not far from thinking it the very best
 thing that Frank could possibly have done.
 
-
-
-
-CHAPTER XI
 
 
 “Harriet, poor Harriet!”—Those were the words; in them lay the
@@ -14040,10 +13861,6 @@ Harriet, from being humble, were grown vain, it was her doing too.
 
 
 
-
-CHAPTER XII
-
-
 Till now that she was threatened with its loss, Emma had never known
 how much of her happiness depended on being _first_ with Mr. Knightley,
 first in interest and affection.—Satisfied that it was so, and feeling
@@ -14317,10 +14134,6 @@ be the following and every future winter of her life to the past, it
 would yet find her more rational, more acquainted with herself, and
 leave her less to regret when it were gone.
 
-
-
-
-CHAPTER XIII
 
 
 The weather continued much the same all the following morning; and the
@@ -14658,10 +14471,6 @@ fellow.
 
 
 
-
-CHAPTER XIV
-
-
 What totally different feelings did Emma take back into the house from
 what she had brought out!—she had then been only daring to hope for a
 little respite of suffering;—she was now in an exquisite flutter of
@@ -14981,10 +14790,6 @@ F. C. WESTON CHURCHILL.
 
 
 
-
-CHAPTER XV
-
-
 This letter must make its way to Emma’s feelings. She was obliged, in
 spite of her previous determination to the contrary, to do it all the
 justice that Mrs. Weston foretold. As soon as she came to her own name,
@@ -15229,11 +15034,6 @@ Mr. Elton. Mr. Knightley, always so kind, so feeling, so truly
 considerate for every body, would never deserve to be less worshipped
 than now; and it really was too much to hope even of Harriet, that she
 could be in love with more than _three_ men in one year.
-
-
-
-
-CHAPTER XVI
 
 
 It was a very great relief to Emma to find Harriet as desirous as
@@ -15585,9 +15385,6 @@ open!—Good-bye, good-bye.”
 
 
 
-CHAPTER XVII
-
-
 Mrs. Weston’s friends were all made happy by her safety; and if the
 satisfaction of her well-doing could be increased to Emma, it was by
 knowing her to be the mother of a little girl. She had been decided in
@@ -15886,9 +15683,6 @@ tried it, and been obliged to separate before the end of the first
 quarter.
 
 
-
-
-CHAPTER XVIII
 
 
 Time passed on. A few more to-morrows, and the party from London would
@@ -16294,9 +16088,6 @@ happiness of this most happy day, received its completion, in the
 animated contemplation of his worth which this comparison produced.
 
 
-
-
-CHAPTER XIX
 
 
 If Emma had still, at intervals, an anxious feeling for Harriet, a
@@ -18941,7 +18732,6 @@ older than herself.
 
 MANSFIELD PARK
 
-CHAPTER I
 
 
 About thirty years ago Miss Maria Ward, of Huntingdon, with only seven
@@ -19218,9 +19008,6 @@ for change of air. Poor woman! she probably thought change of air might
 agree with many of her children.
 
 
-
-
-CHAPTER II
 
 
 The little girl performed her long journey in safety; and at
@@ -19573,9 +19360,6 @@ return for such services she loved him better than anybody in the world
 except William: her heart was divided between the two.
 
 
-
-
-CHAPTER III
 
 
 The first event of any importance in the family was the death of Mr.
@@ -19952,10 +19736,6 @@ her down as a hypocrite.
 
 
 
-
-CHAPTER IV
-
-
 Tom Bertram had of late spent so little of his time at home that he
 could be only nominally missed; and Lady Bertram was soon astonished to
 find how very well they did even without his father, how well Edmund
@@ -20281,10 +20061,6 @@ advantage.”
 
 
 
-
-CHAPTER V
-
-
 The young people were pleased with each other from the first. On each
 side there was much to attract, and their acquaintance soon promised as
 early an intimacy as good manners would warrant. Miss Crawford’s beauty
@@ -20570,10 +20346,6 @@ Mrs. Grant, and Fanny stays at home with _her_.”
 
 “Oh! then the point is clear. Miss Price is not out.”
 
-
-
-
-CHAPTER VI
 
 
 Mr. Bertram set off for————, and Miss Crawford was prepared to find a
@@ -20960,9 +20732,6 @@ was forward in expressing their ready concurrence, excepting Edmund,
 who heard it all and said nothing.
 
 
-
-
-CHAPTER VII
 
 
 “Well, Fanny, and how do you like Miss Crawford _now_?” said Edmund the
@@ -21385,10 +21154,6 @@ hardly know how to support herself.
 
 
 
-
-CHAPTER VIII
-
-
 Fanny’s rides recommenced the very next day; and as it was a pleasant
 fresh-feeling morning, less hot than the weather had lately been,
 Edmund trusted that her losses, both of health and pleasure, would be
@@ -21669,10 +21434,6 @@ spirits were in as happy a flutter as vanity and pride could furnish,
 when they drove up to the spacious stone steps before the principal
 entrance.
 
-
-
-
-CHAPTER IX
 
 
 Mr. Rushworth was at the door to receive his fair lady; and the whole
@@ -22147,9 +21908,6 @@ and listened till all sound of them had ceased.
 
 
 
-CHAPTER X
-
-
 A quarter of an hour, twenty minutes, passed away, and Fanny was still
 thinking of Edmund, Miss Crawford, and herself, without interruption
 from any one. She began to be surprised at being left so long, and to
@@ -22496,10 +22254,6 @@ almost all.
 
 
 
-
-CHAPTER XI
-
-
 The day at Sotherton, with all its imperfections, afforded the Miss
 Bertrams much more agreeable feelings than were derived from the
 letters from Antigua, which soon afterwards reached Mansfield. It was
@@ -22758,9 +22512,6 @@ threats of catching cold.
 
 
 
-CHAPTER XII
-
-
 Sir Thomas was to return in November, and his eldest son had duties to
 call him earlier home. The approach of September brought tidings of Mr.
 Bertram, first in a letter to the gamekeeper and then in a letter to
@@ -22977,9 +22728,6 @@ It is a great deal too bad. But when my aunt has got a fancy in her
 head, nothing can stop her.”
 
 
-
-
-CHAPTER XIII
 
 
 The Honourable John Yates, this new friend, had not much to recommend
@@ -23294,10 +23042,6 @@ the project.
 
 
 
-
-CHAPTER XIV
-
-
 Fanny seemed nearer being right than Edmund had supposed. The business
 of finding a play that would suit everybody proved to be no trifle; and
 the carpenter had received his orders and taken his measurements, had
@@ -23543,11 +23287,6 @@ other, so unfit to be expressed by any woman of modesty, that she could
 hardly suppose her cousins could be aware of what they were engaging
 in; and longed to have them roused as soon as possible by the
 remonstrance which Edmund would certainly make.
-
-
-
-
-CHAPTER XV
 
 
 Miss Crawford accepted the part very readily; and soon after Miss
@@ -23954,9 +23693,6 @@ and by no means what I expected.”
 
 
 
-CHAPTER XVI
-
-
 It was not in Miss Crawford’s power to talk Fanny into any real
 forgetfulness of what had passed. When the evening was over, she went
 to bed full of it, her nerves still agitated by the shock of such an
@@ -24197,9 +23933,6 @@ reach; and if at last obliged to yield—no matter—it was all misery now.
 
 
 
-CHAPTER XVII
-
-
 It was, indeed, a triumphant day to Mr. Bertram and Maria. Such a
 victory over Edmund’s discretion had been beyond their hopes, and was
 most delightful. There was no longer anything to disturb them in their
@@ -24400,8 +24133,6 @@ watching the behaviour, or guarding the happiness of his daughters.
 
 
 
-
-CHAPTER XVIII
 
 
 Everything was now in a regular train: theatre, actors, actresses, and
@@ -24698,10 +24429,6 @@ proceeded some way when the door of the room was thrown open, and
 Julia, appearing at it, with a face all aghast, exclaimed, “My father
 is come! He is in the hall at this moment.”
 
-
-
-
-CHAPTER XIX
 
 
 How is the consternation of the party to be described? To the greater
@@ -25098,10 +24825,6 @@ towards preserving that good opinion a little longer.
 
 
 
-
-CHAPTER XX
-
-
 Edmund’s first object the next morning was to see his father alone, and
 give him a fair statement of the whole acting scheme, defending his own
 share in it as far only as he could then, in a soberer moment, feel his
@@ -25366,10 +25089,6 @@ have distressed him. The curtain, over which she had presided with such
 talent and such success, went off with her to her cottage, where she
 happened to be particularly in want of green baize.
 
-
-
-
-CHAPTER XXI
 
 
 Sir Thomas’s return made a striking change in the ways of the family,
@@ -25662,10 +25381,6 @@ them; and how much more their tenderhearted cousin, who wandered about
 the house, and thought of them, and felt for them, with a degree of
 affectionate regret which they had never done much to deserve!
 
-
-
-
-CHAPTER XXII
 
 
 Fanny’s consequence increased on the departure of her cousins.
@@ -26065,11 +25780,6 @@ satisfaction, as so particularly desirable for her in the intimacy
 which he saw with so much pleasure established, it was a silent walk;
 for having finished that subject, he grew thoughtful and indisposed for
 any other.
-
-
-
-
-CHAPTER XXIII
 
 
 “But why should Mrs. Grant ask Fanny?” said Lady Bertram. “How came she
@@ -26490,11 +26200,6 @@ immediate amusement. If _he_ could so command his affections, _hers_
 should do her no harm.
 
 
-
-
-CHAPTER XXIV
-
-
 Henry Crawford had quite made up his mind by the next morning to give
 another fortnight to Mansfield, and having sent for his hunters, and
 written a few lines of explanation to the Admiral, he looked round at
@@ -26782,10 +26487,6 @@ one minute tendered to his use again; and the next, with the greatest
 cordiality, and in a manner not to be resisted, made over to his use
 entirely so long as he remained in Northamptonshire.
 
-
-
-
-CHAPTER XXV
 
 
 The intercourse of the two families was at this period more nearly
@@ -27271,10 +26972,6 @@ obliged to be indebted to his more prominent attention.
 
 
 
-
-CHAPTER XXVI
-
-
 William’s desire of seeing Fanny dance made more than a momentary
 impression on his uncle. The hope of an opportunity, which Sir Thomas
 had then given, was not given to be thought of no more. He remained
@@ -27559,10 +27256,6 @@ had so much wished for did not bring much satisfaction, she now walked
 home again, with a change rather than a diminution of cares since her
 treading that path before.
 
-
-
-
-CHAPTER XXVII
 
 
 On reaching home Fanny went immediately upstairs to deposit this
@@ -27935,10 +27628,6 @@ could do themselves.
 
 
 
-
-CHAPTER XXVIII
-
-
 Her uncle and both her aunts were in the drawing-room when Fanny went
 down. To the former she was an interesting object, and he saw with
 pleasure the general elegance of her appearance, and her being in
@@ -28252,11 +27941,6 @@ sitting by her long enough, or he might mean to recommend her as a wife
 by shewing her persuadableness.
 
 
-
-
-CHAPTER XXIX
-
-
 The ball was over, and the breakfast was soon over too; the last kiss
 was given, and William was gone. Mr. Crawford had, as he foretold, been
 very punctual, and short and pleasant had been the meal.
@@ -28542,10 +28226,6 @@ he is,” and turned the subject.
 
 
 
-
-CHAPTER XXX
-
-
 Miss Crawford’s uneasiness was much lightened by this conversation, and
 she walked home again in spirits which might have defied almost another
 week of the same small party in the same bad weather, had they been put
@@ -28790,11 +28470,6 @@ is Sir Thomas in his way; but it is the way of a rich, superior,
 long-worded, arbitrary uncle. What can Sir Thomas and Edmund together
 do, what _do_ they do for her happiness, comfort, honour, and dignity
 in the world, to what I _shall_ do?”
-
-
-
-
-CHAPTER XXXI
 
 
 Henry Crawford was at Mansfield Park again the next morning, and at an
@@ -29151,11 +28826,6 @@ no doubt that her note must appear excessively ill-written, that the
 language would disgrace a child, for her distress had allowed no
 arrangement; but at least it would assure them both of her being
 neither imposed on nor gratified by Mr. Crawford’s attentions.
-
-
-
-
-CHAPTER XXXII
 
 
 Fanny had by no means forgotten Mr. Crawford when she awoke the next
@@ -29659,9 +29329,6 @@ herself, as she anticipated, in another minute alone with Mr. Crawford.
 
 
 
-CHAPTER XXXIII
-
-
 The conference was neither so short nor so conclusive as the lady had
 designed. The gentleman was not so easily satisfied. He had all the
 disposition to persevere that Sir Thomas could wish him. He had vanity,
@@ -29932,10 +29599,6 @@ afterwards added, “And I will tell you what, Fanny, which is more than
 I did for Maria: the next time Pug has a litter you shall have a
 puppy.”
 
-
-
-
-CHAPTER XXXIV
 
 
 Edmund had great things to hear on his return. Many surprises were
@@ -30321,10 +29984,6 @@ to without some profit to the speaker.
 
 
 
-
-CHAPTER XXXV
-
-
 Edmund had determined that it belonged entirely to Fanny to chuse
 whether her situation with regard to Crawford should be mentioned
 between them or not; and that if she did not lead the way, it should
@@ -30698,11 +30357,6 @@ her directly, with the kind authority of a privileged guardian, into
 the house.
 
 
-
-
-CHAPTER XXXVI
-
-
 Edmund now believed himself perfectly acquainted with all that Fanny
 could tell, or could leave to be conjectured of her sentiments, and he
 was satisfied. It had been, as he before presumed, too hasty a measure
@@ -31034,9 +30688,6 @@ On the morrow the Crawfords were gone.
 
 
 
-CHAPTER XXXVII
-
-
 Mr. Crawford gone, Sir Thomas’s next object was that he should be
 missed; and he entertained great hope that his niece would find a blank
 in the loss of those attentions which at the time she had felt, or
@@ -31332,10 +30983,6 @@ All this passed overnight, for the journey was to begin very early in
 the morning; and when the small, diminished party met at breakfast,
 William and Fanny were talked of as already advanced one stage.
 
-
-
-
-CHAPTER XXXVIII
 
 
 The novelty of travelling, and the happiness of being with William,
@@ -31787,9 +31434,6 @@ house reckoned too small for anybody’s comfort.
 
 
 
-CHAPTER XXXIX
-
-
 Could Sir Thomas have seen all his niece’s feelings, when she wrote her
 first letter to her aunt, he would not have despaired; for though a
 good night’s rest, a pleasant morning, the hope of soon seeing William
@@ -31942,9 +31586,6 @@ judgment as to matrimony and celibacy, and say, that though Mansfield
 Park might have some pains, Portsmouth could have no pleasures.
 
 
-
-
-CHAPTER XL
 
 
 Fanny was right enough in not expecting to hear from Miss Crawford now
@@ -32142,9 +31783,6 @@ was beginning to bring its daily terrors, and if reading could banish
 the idea for even half an hour, it was something gained.
 
 
-
-
-CHAPTER XLI
 
 
 A week was gone since Edmund might be supposed in town, and Fanny had
@@ -32422,10 +32060,6 @@ luxury and epicurism.
 
 
 
-
-CHAPTER XLII
-
-
 The Prices were just setting off for church the next day when Mr.
 Crawford appeared again. He came, not to stop, but to join them; he was
 asked to go with them to the Garrison chapel, which was exactly what he
@@ -32648,9 +32282,6 @@ distressing to her?
 
 
 
-CHAPTER XLIII
-
-
 It was presumed that Mr. Crawford was travelling back, to London, on
 the morrow, for nothing more was seen of him at Mr. Price’s; and two
 days afterwards, it was a fact ascertained to Fanny by the following
@@ -32809,9 +32440,6 @@ good-tempered, and could fancy his entering into a plan of that sort
 most pleasantly.
 
 
-
-
-CHAPTER XLIV
 
 
 Seven weeks of the two months were very nearly gone, when the one
@@ -33093,10 +32721,6 @@ to have them so well provided for.
 
 
 
-
-CHAPTER XLV
-
-
 At about the week’s end from his return to Mansfield, Tom’s immediate
 danger was over, and he was so far pronounced safe as to make his
 mother perfectly easy; for being now used to the sight of him in his
@@ -33353,9 +32977,6 @@ himself upon. She had only learnt to think nothing of consequence but
 money.
 
 
-
-
-CHAPTER XLVI
 
 
 As Fanny could not doubt that her answer was conveying a real
@@ -33710,10 +33331,6 @@ solemn-looking servants, when Lady Bertram came from the drawing-room
 to meet her; came with no indolent step; and falling on her neck, said,
 “Dear Fanny! now I shall be comfortable.”
 
-
-
-
-CHAPTER XLVII
 
 
 It had been a miserable party, each of the three believing themselves
@@ -34124,9 +33741,6 @@ impossible to be named but with indignation. Fanny’s friendship was all
 that he had to cling to.
 
 
-
-
-CHAPTER XLVIII
 
 
 Let other pens dwell on guilt and misery. I quit such odious subjects
@@ -34551,8 +34165,6 @@ long been.
 
 Northanger Abbey
 
-CHAPTER 1
-
 
 No one who had ever seen Catherine Morland in her infancy would have
 supposed her born to be an heroine. Her situation in life, the
@@ -34707,9 +34319,6 @@ invited her to go with them. Mr. and Mrs. Morland were all compliance,
 and Catherine all happiness.
 
 
-
-
-CHAPTER 2
 
 
 In addition to what has been already said of Catherine Morland’s
@@ -34933,9 +34542,6 @@ perfectly satisfied with her share of public attention.
 
 
 
-CHAPTER 3
-
-
 Every morning now brought its regular duties—shops were to be visited;
 some new part of the town to be looked at; and the pump-room to be
 attended, where they paraded up and down for an hour, looking at
@@ -35145,12 +34751,6 @@ had early in the evening taken pains to know who her partner was, and
 had been assured of Mr. Tilney’s being a clergyman, and of a very
 respectable family in Gloucestershire.
 
- [1] Vide a letter from Mr. Richardson, No. 97, Vol. ii, Rambler.
-
-
-
-
-CHAPTER 4
 
 
 With more than usual eagerness did Catherine hasten to the pump-room
@@ -35277,9 +34877,6 @@ passed twenty years before, be minutely repeated.
 
 
 
-CHAPTER 5
-
-
 Catherine was not so much engaged at the theatre that evening, in
 returning the nods and smiles of Miss Thorpe, though they certainly
 claimed much of her leisure, as to forget to look with an inquiring eye
@@ -35390,10 +34987,6 @@ topics of conversation which no longer concern anyone living; and their
 language, too, frequently so coarse as to give no very favourable idea
 of the age that could endure it.
 
-
-
-
-CHAPTER 6
 
 
 The following conversation, which took place between the two friends in
@@ -35590,10 +35183,6 @@ to show the independence of Miss Thorpe, and her resolution of humbling
 the sex, they set off immediately as fast as they could walk, in
 pursuit of the two young men.
 
-
-
-
-CHAPTER 7
 
 
 Half a minute conducted them through the pump-yard to the archway,
@@ -35903,11 +35492,6 @@ bestow even on the reflection of her own felicity, in being already
 engaged for the evening.
 
 
-
-
-CHAPTER 8
-
-
 In spite of Udolpho and the dressmaker, however, the party from
 Pulteney Street reached the Upper Rooms in very good time. The Thorpes
 and James Morland were there only two minutes before them; and Isabella
@@ -36179,10 +35763,6 @@ James and Isabella were so much engaged in conversing together that the
 latter had no leisure to bestow more on her friend than one smile, one
 squeeze, and one “dearest Catherine.”
 
-
-
-
-CHAPTER 9
 
 
 The progress of Catherine’s unhappiness from the events of the evening
@@ -36519,10 +36099,6 @@ was, she could only lament her ill luck, and think over what she had
 lost, till it was clear to her that the drive had by no means been very
 pleasant and that John Thorpe himself was quite disagreeable.
 
-
-
-
-CHAPTER 10
 
 
 The Allens, Thorpes, and Morlands all met in the evening at the
@@ -36928,9 +36504,6 @@ chair all the way home.
 
 
 
-CHAPTER 11
-
-
 The morrow brought a very sober-looking morning, the sun making only a
 few efforts to appear, and Catherine augured from it everything most
 favourable to her wishes. A bright morning so early in the year, she
@@ -37262,9 +36835,6 @@ rest in the course of the next three months.
 
 
 
-CHAPTER 12
-
-
 “Mrs. Allen,” said Catherine the next morning, “will there be any harm
 in my calling on Miss Tilney today? I shall not be easy till I have
 explained everything.”
@@ -37462,10 +37032,6 @@ delightful; and she joyfully thought that there was not one of the
 family whom she need now fear to meet. The evening had done more, much
 more, for her than could have been expected.
 
-
-
-
-CHAPTER 13
 
 
 Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday have now
@@ -37776,10 +37342,6 @@ Tilneys have thought of her, if she had broken her promise to them in
 order to do what was wrong in itself, if she had been guilty of one
 breach of propriety, only to enable her to be guilty of another?
 
-
-
-
-CHAPTER 14
 
 
 The next morning was fair, and Catherine almost expected another attack
@@ -38133,10 +37695,6 @@ to resent her resistance any longer.
 
 
 
-
-CHAPTER 15
-
-
 Early the next day, a note from Isabella, speaking peace and tenderness
 in every line, and entreating the immediate presence of her friend on a
 matter of the utmost importance, hastened Catherine, in the happiest
@@ -38462,10 +38020,6 @@ to his father and mother, and her kind compliments to all the Skinners.
 
 
 
-
-CHAPTER 16
-
-
 Catherine’s expectations of pleasure from her visit in Milsom Street
 were so very high that disappointment was inevitable; and accordingly,
 though she was most politely received by General Tilney, and kindly
@@ -38759,9 +38313,6 @@ received with the most gratifying kindness.
 
 
 
-CHAPTER 17
-
-
 The Allens had now entered on the sixth week of their stay in Bath; and
 whether it should be the last was for some time a question, to which
 Catherine listened with a beating heart. To have her acquaintance with
@@ -38897,10 +38448,6 @@ of a large portion of the ancient building still making a part of the
 present dwelling although the rest was decayed, or of its standing low
 in a valley, sheltered from the north and east by rising woods of oak.
 
-
-
-
-CHAPTER 18
 
 
 With a mind thus full of happiness, Catherine was hardly aware that two
@@ -39111,9 +38658,6 @@ present ease and comfort.
 
 
 
-CHAPTER 19
-
-
 A few days passed away, and Catherine, though not allowing herself to
 suspect her friend, could not help watching her closely. The result of
 her observations was not agreeable. Isabella seemed an altered
@@ -39282,11 +38826,6 @@ contradiction, and once she drew back her hand; but Catherine
 remembered Henry’s instructions, and placed it all to judicious
 affection. The embraces, tears, and promises of the parting fair ones
 may be fancied.
-
-
-
-
-CHAPTER 20
 
 
 Mr. and Mrs. Allen were sorry to lose their young friend, whose good
@@ -39591,9 +39130,6 @@ she would make as little alteration as possible in her dress.
 
 
 
-CHAPTER 21
-
-
 A moment’s glance was enough to satisfy Catherine that her apartment
 was very unlike the one which Henry had endeavoured to alarm her by the
 description of. It was by no means unreasonably large, and contained
@@ -39854,9 +39390,6 @@ had heard three proclaimed by all the clocks in the house before the
 tempest subsided or she unknowingly fell fast asleep.
 
 
-
-
-CHAPTER 22
 
 
 The housemaid’s folding back her window-shutters at eight o’clock the
@@ -40194,10 +39727,6 @@ Catherine as very remarkable.
 
 
 
-
-CHAPTER 23
-
-
 An hour passed away before the general came in, spent, on the part of
 his young guest, in no very favourable consideration of his character.
 “This lengthened absence, these solitary rambles, did not speak a mind
@@ -40438,11 +39967,6 @@ watch; but then, when the clock had struck twelve, and all was quiet,
 she would, if not quite appalled by darkness, steal out and look once
 more. The clock struck twelve—and Catherine had been half an hour
 asleep.
-
-
-
-
-CHAPTER 24
 
 
 The next day afforded no opportunity for the proposed examination of
@@ -40719,10 +40243,6 @@ admitting?”
 They had reached the end of the gallery, and with tears of shame she
 ran off to her own room.
 
-
-
-
-CHAPTER 25
 
 
 The visions of romance were over. Catherine was completely awakened.
@@ -41031,10 +40551,6 @@ produced it.
 
 
 
-
-CHAPTER 26
-
-
 From this time, the subject was frequently canvassed by the three young
 people; and Catherine found, with some surprise, that her two young
 friends were perfectly agreed in considering Isabella’s want of
@@ -41282,8 +40798,6 @@ anxiety as to the How or the When she might return to it.
 
 
 
-CHAPTER 27
-
 
 The next morning brought the following very unexpected letter from
 Isabella:
@@ -41419,10 +40933,6 @@ not be unpardonably guilty, while Henry made himself so agreeable. She
 resolved on not answering Isabella’s letter, and tried to think no more
 of it.
 
-
-
-
-CHAPTER 28
 
 
 Soon after this, the general found himself obliged to go to London for
@@ -41752,10 +41262,6 @@ chaise, and in a moment was driven from the door.
 
 
 
-
-CHAPTER 29
-
-
 Catherine was too wretched to be fearful. The journey in itself had no
 terrors for her; and she began it without either dreading its length or
 feeling its solitariness. Leaning back in one corner of the carriage,
@@ -42072,10 +41578,6 @@ for Hereford.
 
 
 
-
-CHAPTER 30
-
-
 Catherine’s disposition was not naturally sedentary, nor had her habits
 been ever very industrious; but whatever might hitherto have been her
 defects of that sort, her mother could not but perceive them now to be
@@ -42342,9 +41844,6 @@ Fullerton.
 
 
 
-CHAPTER 31
-
-
 Mr. and Mrs. Morland’s surprise on being applied to by Mr. Tilney for
 their consent to his marrying their daughter was, for a few minutes,
 considerable, it having never entered their heads to suspect an
@@ -42461,7 +41960,6 @@ parental tyranny, or reward filial disobedience.
 
 Pride and Prejudice
 
-Chapter 1
 
       It is a truth universally acknowledged, that a single man in
       possession of a good fortune, must be in want of a wife.
@@ -42586,9 +42084,6 @@ Chapter 1
 
 
 
-
-Chapter 2
-
       Mr. Bennet was among the earliest of those who waited on Mr.
       Bingley. He had always intended to visit him, though to the last
       always assuring his wife that he should not go; and till the
@@ -42695,9 +42190,6 @@ Chapter 2
       ask him to dinner.
 
 
-
-
-Chapter 3
 
       Not all that Mrs. Bennet, however, with the assistance of her
       five daughters, could ask on the subject, was sufficient to draw
@@ -42883,8 +42375,6 @@ Chapter 3
 
 
 
-Chapter 4
-
       When Jane and Elizabeth were alone, the former, who had been
       cautious in her praise of Mr. Bingley before, expressed to her
       sister how very much she admired him.
@@ -43005,8 +42495,6 @@ Chapter 4
 
 
 
-Chapter 5
-
       Within a short walk of Longbourn lived a family with whom the
       Bennets were particularly intimate. Sir William Lucas had been
       formerly in trade in Meryton, where he had made a tolerable
@@ -43123,9 +42611,6 @@ Chapter 5
       that she would, and the argument ended only with the visit.
 
 
-
-
-Chapter 6
 
       The ladies of Longbourn soon waited on those of Netherfield. The
       visit was returned in due form. Miss Bennet’s pleasing
@@ -43413,8 +42898,6 @@ Chapter 6
 
 
 
-Chapter 7
-
       Mr. Bennet’s property consisted almost entirely in an estate of
       two thousand a year, which, unfortunately for his daughters, was
       entailed, in default of heirs male, on a distant relation; and
@@ -43661,8 +43144,6 @@ Chapter 7
 
 
 
-
-Chapter 8
 
       At five o’clock the two ladies retired to dress, and at half-past
       six Elizabeth was summoned to dinner. To the civil enquiries
@@ -43925,10 +43406,6 @@ Chapter 8
       sister.
 
 
-
-
-Chapter 9
-
       Elizabeth passed the chief of the night in her sister’s room, and
       in the morning had the pleasure of being able to send a tolerable
       answer to the enquiries which she very early received from Mr.
@@ -44141,9 +43618,6 @@ Chapter 9
       on _fine eyes_.
 
 
-
-
-Chapter 10
 
       The day passed much as the day before had done. Mrs. Hurst and
       Miss Bingley had spent some hours of the morning with the
@@ -44438,10 +43912,6 @@ Chapter 10
       hours that evening.
 
 
-
-
-Chapter 11
-
       When the ladies removed after dinner, Elizabeth ran up to her
       sister, and seeing her well guarded from cold, attended her into
       the drawing-room, where she was welcomed by her two friends with
@@ -44637,9 +44107,6 @@ Chapter 11
 
 
 
-
-Chapter 12
-
       In consequence of an agreement between the sisters, Elizabeth
       wrote the next morning to their mother, to beg that the carriage
       might be sent for them in the course of the day. But Mrs. Bennet,
@@ -44713,8 +44180,6 @@ Chapter 12
 
 
 
-
-Chapter 13
 
       “I hope, my dear,” said Mr. Bennet to his wife, as they were at
       breakfast the next morning, “that you have ordered a good dinner
@@ -44909,8 +44374,6 @@ Chapter 13
 
 
 
-Chapter 14
-
       During dinner, Mr. Bennet scarcely spoke at all; but when the
       servants were withdrawn, he thought it time to have some
       conversation with his guest, and therefore started a subject in
@@ -45037,10 +44500,6 @@ Chapter 14
       should never resent her behaviour as any affront, seated himself
       at another table with Mr. Bennet, and prepared for backgammon.
 
-
-
-
-Chapter 15
 
       Mr. Collins was not a sensible man, and the deficiency of nature
       had been but little assisted by education or society; the
@@ -45216,10 +44675,6 @@ Chapter 15
       connection with them, but yet he had never met with so much
       attention in the whole course of his life.
 
-
-
-
-Chapter 16
 
       As no objection was made to the young people’s engagement with
       their aunt, and all Mr. Collins’s scruples of leaving Mr. and
@@ -45606,10 +45061,6 @@ Chapter 16
       Longbourn House.
 
 
-
-
-Chapter 17
-
       Elizabeth related to Jane the next day what had passed between
       Mr. Wickham and herself. Jane listened with astonishment and
       concern; she knew not how to believe that Mr. Darcy could be so
@@ -45744,10 +45195,6 @@ Chapter 17
       on Tuesday, could have made such a Friday, Saturday, Sunday, and
       Monday endurable to Kitty and Lydia.
 
-
-
-
-Chapter 18
 
       Till Elizabeth entered the drawing-room at Netherfield, and
       looked in vain for Mr. Wickham among the cluster of red coats
@@ -46314,10 +45761,6 @@ Chapter 18
       eclipsed by Mr. Bingley and Netherfield.
 
 
-
-
-Chapter 19
-
       The next day opened a new scene at Longbourn. Mr. Collins made
       his declaration in form. Having resolved to do it without loss of
       time, as his leave of absence extended only to the following
@@ -46519,9 +45962,6 @@ Chapter 19
 
 
 
-
-Chapter 20
-
       Mr. Collins was not left long to the silent contemplation of his
       successful love; for Mrs. Bennet, having dawdled about in the
       vestibule to watch for the end of the conference, no sooner saw
@@ -46714,10 +46154,6 @@ Chapter 20
       _manner_ has been at all reprehensible, I here beg leave to
       apologise.”
 
-
-
-
-Chapter 21
 
       The discussion of Mr. Collins’s offer was now nearly at an end,
       and Elizabeth had only to suffer from the uncomfortable feelings
@@ -46943,9 +46379,6 @@ Chapter 21
 
 
 
-
-Chapter 22
-
       The Bennets were engaged to dine with the Lucases and again
       during the chief of the day was Miss Lucas so kind as to listen
       to Mr. Collins. Elizabeth took an opportunity of thanking her.
@@ -47132,9 +46565,6 @@ Chapter 22
 
 
 
-
-Chapter 23
-
       Elizabeth was sitting with her mother and sisters, reflecting on
       what she had heard, and doubting whether she was authorised to
       mention it, when Sir William Lucas himself appeared, sent by his
@@ -47319,10 +46749,6 @@ Chapter 23
 
       “I leave it to yourself to determine,” said Mr. Bennet.
 
-
-
-
-Chapter 24
 
       Miss Bingley’s letter arrived, and put an end to doubt. The very
       first sentence conveyed the assurance of their being all settled
@@ -47538,10 +46964,6 @@ Chapter 24
       by everybody else Mr. Darcy was condemned as the worst of men.
 
 
-
-
-Chapter 25
-
       After a week spent in professions of love and schemes of
       felicity, Mr. Collins was called from his amiable Charlotte by
       the arrival of Saturday. The pain of separation, however, might
@@ -47705,10 +47127,6 @@ Chapter 25
       last that she recollected having heard Mr. Fitzwilliam Darcy
       formerly spoken of as a very proud, ill-natured boy.
 
-
-
-
-Chapter 26
 
       Mrs. Gardiner’s caution to Elizabeth was punctually and kindly
       given on the first favourable opportunity of speaking to her
@@ -47954,10 +47372,6 @@ Chapter 26
       to live on as well as the plain.”
 
 
-
-
-Chapter 27
-
       With no greater events than these in the Longbourn family, and
       otherwise diversified by little beyond the walks to Meryton,
       sometimes dirty and sometimes cold, did January and February pass
@@ -48108,10 +47522,6 @@ Chapter 27
       _our_ first effusions be less insupportable than those of the
       generality of travellers.”
 
-
-
-
-Chapter 28
 
       Every object in the next day’s journey was new and interesting to
       Elizabeth; and her spirits were in a state of enjoyment; for she
@@ -48270,10 +47680,6 @@ Chapter 28
       fortune, which Charlotte explained by letting them know that the
       whole party was asked to dine at Rosings the next day.
 
-
-
-
-Chapter 29
 
       Mr. Collins’s triumph, in consequence of this invitation, was
       complete. The power of displaying the grandeur of his patroness
@@ -48555,10 +47961,6 @@ Chapter 29
       soon obliged to take her ladyship’s praise into his own hands.
 
 
-
-
-Chapter 30
-
       Sir William stayed only a week at Hunsford, but his visit was
       long enough to convince him of his daughter’s being most
       comfortably settled, and of her possessing such a husband and
@@ -48689,9 +48091,6 @@ Chapter 30
       gentlemen soon afterwards went away.
 
 
-
-
-Chapter 31
 
       Colonel Fitzwilliam’s manners were very much admired at the
       Parsonage, and the ladies all felt that he must add considerably
@@ -48876,9 +48275,6 @@ Chapter 31
 
 
 
-
-Chapter 32
-
       Elizabeth was sitting by herself the next morning, and writing to
       Jane while Mrs. Collins and Maria were gone on business into the
       village, when she was startled by a ring at the door, the certain
@@ -49055,10 +48451,6 @@ Chapter 32
       Darcy had considerable patronage in the church, and his cousin
       could have none at all.
 
-
-
-
-Chapter 33
 
       More than once did Elizabeth, in her ramble within the park,
       unexpectedly meet Mr. Darcy. She felt all the perverseness of the
@@ -49284,9 +48676,6 @@ Chapter 33
       staying at home.
 
 
-
-
-Chapter 34
 
       When they were gone, Elizabeth, as if intending to exasperate
       herself as much as possible against Mr. Darcy, chose for her
@@ -49521,9 +48910,6 @@ Chapter 34
       observation, and hurried her away to her room.
 
 
-
-
-Chapter 35
 
       Elizabeth awoke the next morning to the same thoughts and
       meditations which had at length closed her eyes. She could not
@@ -49816,9 +49202,6 @@ Chapter 35
 
 
 
-
-Chapter 36
-
       If Elizabeth, when Mr. Darcy gave her the letter, did not expect
       it to contain a renewal of his offers, she had formed no
       expectation at all of its contents. But such as they were, it may
@@ -50024,10 +49407,6 @@ Chapter 36
       object; she could think only of her letter.
 
 
-
-
-Chapter 37
-
       The two gentlemen left Rosings the next morning, and Mr. Collins
       having been in waiting near the lodges, to make them his parting
       obeisance, was able to bring home the pleasing intelligence, of
@@ -50181,9 +49560,6 @@ Chapter 37
 
 
 
-
-Chapter 38
-
       On Saturday morning Elizabeth and Mr. Collins met for breakfast a
       few minutes before the others appeared; and he took the
       opportunity of paying the parting civilities which he deemed
@@ -50304,9 +49680,6 @@ Chapter 38
       further.
 
 
-
-
-Chapter 39
 
       It was the second week in May, in which the three young ladies
       set out together from Gracechurch Street for the town of ——, in
@@ -50483,10 +49856,6 @@ Chapter 39
       equivocal, that her mother, though often disheartened, had never
       yet despaired of succeeding at last.
 
-
-
-
-Chapter 40
 
       Elizabeth’s impatience to acquaint Jane with what had happened
       could no longer be overcome; and at length, resolving to suppress
@@ -50683,10 +50052,6 @@ Chapter 40
       better. _I_ should be ashamed of having one that was only
       entailed on me.”
 
-
-
-
-Chapter 41
 
       The first week of their return was soon gone. The second began.
       It was the last of the regiment’s stay in Meryton, and all the
@@ -50957,10 +50322,6 @@ Chapter 41
       adieus of her sisters were uttered without being heard.
 
 
-
-
-Chapter 42
-
       Had Elizabeth’s opinion been all drawn from her own family, she
       could not have formed a very pleasing opinion of conjugal
       felicity or domestic comfort. Her father, captivated by youth and
@@ -51155,10 +50516,6 @@ Chapter 42
       air of indifference, that she had not really any dislike to the
       scheme. To Pemberley, therefore, they were to go.
 
-
-
-
-Chapter 43
 
       Elizabeth, as they drove along, watched for the first appearance
       of Pemberley Woods with some perturbation; and when at length
@@ -51703,10 +51060,6 @@ Chapter 43
       with his sister.
 
 
-
-
-Chapter 44
-
       Elizabeth had settled it that Mr. Darcy would bring his sister to
       visit her the very day after her reaching Pemberley; and was
       consequently resolved not to be out of sight of the inn the whole
@@ -51943,10 +51296,6 @@ Chapter 44
       of his meeting some of the gentlemen at Pemberley before noon.
 
 
-
-
-Chapter 45
-
       Convinced as Elizabeth now was that Miss Bingley’s dislike of her
       had originated in jealousy, she could not help feeling how
       unwelcome her appearance at Pemberley must be to her, and was
@@ -52133,10 +51482,6 @@ Chapter 45
       and Mrs. Gardiner would have been highly gratified by her niece’s
       beginning the subject.
 
-
-
-
-Chapter 46
 
       Elizabeth had been a good deal disappointed in not finding a
       letter from Jane on their first arrival at Lambton; and this
@@ -52447,10 +51792,6 @@ Chapter 46
       have supposed, seated in the carriage, and on the road to
       Longbourn.
 
-
-
-
-Chapter 47
 
       “I have been thinking it over again, Elizabeth,” said her uncle,
       as they drove from the town; “and really, upon serious
@@ -52910,10 +52251,6 @@ Chapter 47
       difficulty in finding out even so much as this.”
 
 
-
-
-Chapter 48
-
       The whole party were in hopes of a letter from Mr. Bennet the
       next morning, but the post came in without bringing a single line
       from him. His family knew him to be, on all common occasions, a
@@ -53162,10 +52499,6 @@ Chapter 48
       a good girl for the next ten years, I will take you to a review
       at the end of them.”
 
-
-
-
-Chapter 49
 
       Two days after Mr. Bennet’s return, as Jane and Elizabeth were
       walking together in the shrubbery behind the house, they saw the
@@ -53441,10 +52774,6 @@ Chapter 49
       felt all the advantages of what they had gained.
 
 
-
-
-Chapter 50
-
       Mr. Bennet had very often wished before this period of his life
       that, instead of spending his whole income, he had laid by an
       annual sum for the better provision of his children, and of his
@@ -53678,10 +53007,6 @@ Chapter 50
       of her wishes.
 
 
-
-
-Chapter 51
-
       Their sister’s wedding day arrived; and Jane and Elizabeth felt
       for her probably more than she felt for herself. The carriage was
       sent to meet them at ——, and they were to return in it by
@@ -53908,9 +53233,6 @@ Chapter 51
       any satisfaction, she had rather be without a confidante.
 
 
-
-
-Chapter 52
 
       Elizabeth had the satisfaction of receiving an answer to her
       letter as soon as she possibly could. She was no sooner in
@@ -54251,9 +53573,6 @@ Chapter 52
       though he hardly knew how to look, and they entered the house.
 
 
-
-
-Chapter 53
 
       Mr. Wickham was so perfectly satisfied with this conversation
       that he never again distressed himself, or provoked his dear
@@ -54596,10 +53915,6 @@ Chapter 53
       year.
 
 
-
-
-Chapter 54
-
       As soon as they were gone, Elizabeth walked out to recover her
       spirits; or in other words, to dwell without interruption on
       those subjects that must deaden them more. Mr. Darcy’s behaviour
@@ -54794,10 +54109,6 @@ Chapter 54
       knowing. Forgive me; and if you persist in indifference, do not
       make _me_ your confidante.”
 
-
-
-
-Chapter 55
 
       A few days after this visit, Mr. Bingley called again, and alone.
       His friend had left him that morning for London, but was to
@@ -55082,10 +54393,6 @@ Chapter 55
       run away, they had been generally proved to be marked out for
       misfortune.
 
-
-
-
-Chapter 56
 
       One morning, about a week after Bingley’s engagement with Jane
       had been formed, as he and the females of the family were sitting
@@ -55437,9 +54744,6 @@ Chapter 56
 
 
 
-
-Chapter 57
-
       The discomposure of spirits which this extraordinary visit threw
       Elizabeth into, could not be easily overcome; nor could she, for
       many hours, learn to think of it less than incessantly. Lady
@@ -55627,10 +54931,6 @@ Chapter 57
       of penetration, or fear that perhaps, instead of his seeing too
       _little_, she might have fancied too _much_.
 
-
-
-
-Chapter 58
 
       Instead of receiving any such letter of excuse from his friend,
       as Elizabeth half expected Mr. Bingley to do, he was able to
@@ -55913,10 +55213,6 @@ Chapter 58
       till they reached the house. In the hall they parted.
 
 
-
-
-Chapter 59
-
       “My dear Lizzy, where can you have been walking to?” was a
       question which Elizabeth received from Jane as soon as she
       entered their room, and from all the others when they sat down to
@@ -56198,10 +55494,6 @@ Chapter 59
       quite as well as Jane’s.”
 
 
-
-
-Chapter 60
-
       Elizabeth’s spirits soon rising to playfulness again, she wanted
       Mr. Darcy to account for his having ever fallen in love with her.
       “How could you begin?” said she. “I can comprehend your going on
@@ -56383,10 +55675,6 @@ Chapter 60
       society so little pleasing to either, to all the comfort and
       elegance of their family party at Pemberley.
 
-
-
-
-Chapter 61
 
       Happy for all her maternal feelings was the day on which Mrs.
       Bennet got rid of her two most deserving daughters. With what

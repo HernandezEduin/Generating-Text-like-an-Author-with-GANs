@@ -1,0 +1,3 @@
+char-rnn
+	-python train.py "../Dataset/William Shakespeare/shakespeare_train.txt"
+	-python generate.py shakespeare_train.pt --cuda --predict_len 300
