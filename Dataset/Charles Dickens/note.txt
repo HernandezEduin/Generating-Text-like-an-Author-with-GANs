@@ -1,0 +1,8 @@
+Train Text (4.6KB):
+	Great Expectations
+	Little Dorrit
+	The Pickwick Papers
+
+Validation Text (1.6KB):
+	Oliver Twist
+	A Tale of Two Cities
