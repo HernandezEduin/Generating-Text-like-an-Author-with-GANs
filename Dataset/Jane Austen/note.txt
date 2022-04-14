@@ -1,0 +1,10 @@
+Train Text:
+	Emma
+	Lady Susan
+	Mansfield Park
+	Northanger Abbey
+	Pride and Prejudice
+
+Validation Text:
+	Persuasion
+	Sense and Sensibility
