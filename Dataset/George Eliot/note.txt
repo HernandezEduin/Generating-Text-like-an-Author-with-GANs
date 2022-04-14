@@ -1,0 +1,7 @@
+Train Text (4.6KB):
+	MiddleMarch
+	Daniel Deronda
+	Adam Bede
+Val Text (1.5KB):
+	The Mill on the Floss
+	Salis Marner
