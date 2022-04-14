@@ -8,3 +8,5 @@ Train Text:
 Validation Text:
 	Persuasion
 	Sense and Sensibility
+
+\n\r\n\r\n

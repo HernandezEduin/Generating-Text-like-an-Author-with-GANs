@@ -1,92 +1,9 @@
-Produced by Jo Churcher and David Widger
-
-
-
-
-
 LITTLE DORRIT
 
-By Charles Dickens
 
-PREFACE TO THE 1857 EDITION
+POVERTY
 
-
-I have been occupied with this story, during many working hours of two
-years. I must have been very ill employed, if I could not leave its
-merits and demerits as a whole, to express themselves on its being read
-as a whole. But, as it is not unreasonable to suppose that I may have
-held its threads with a more continuous attention than anyone else can
-have given them during its desultory publication, it is not unreasonable
-to ask that the weaving may be looked at in its completed state, and
-with the pattern finished.
-
-If I might offer any apology for so exaggerated a fiction as the
-Barnacles and the Circumlocution Office, I would seek it in the
-common experience of an Englishman, without presuming to mention the
-unimportant fact of my having done that violence to good manners, in the
-days of a Russian war, and of a Court of Inquiry at Chelsea. If I might
-make so bold as to defend that extravagant conception, Mr Merdle, I
-would hint that it originated after the Railroad-share epoch, in the
-times of a certain Irish bank, and of one or two other equally
-laudable enterprises. If I were to plead anything in mitigation of the
-preposterous fancy that a bad design will sometimes claim to be a good
-and an expressly religious design, it would be the curious coincidence
-that it has been brought to its climax in these pages, in the days of
-the public examination of late Directors of a Royal British Bank. But,
-I submit myself to suffer judgment to go by default on all these counts,
-if need be, and to accept the assurance (on good authority) that nothing
-like them was ever known in this land.
-
-Some of my readers may have an interest in being informed whether or no
-any portions of the Marshalsea Prison are yet standing. I did not know,
-myself, until the sixth of this present month, when I went to look. I
-found the outer front courtyard, often mentioned here, metamorphosed
-into a butter shop; and I then almost gave up every brick of the jail
-for lost. Wandering, however, down a certain adjacent ‘Angel Court,
-leading to Bermondsey’, I came to ‘Marshalsea Place:’ the houses in
-which I recognised, not only as the great block of the former prison,
-but as preserving the rooms that arose in my mind’s-eye when I became
-Little Dorrit’s biographer. The smallest boy I ever conversed with,
-carrying the largest baby I ever saw, offered a supernaturally
-intelligent explanation of the locality in its old uses, and was very
-nearly correct. How this young Newton (for such I judge him to be) came
-by his information, I don’t know; he was a quarter of a century too
-young to know anything about it of himself. I pointed to the window of
-the room where Little Dorrit was born, and where her father lived so
-long, and asked him what was the name of the lodger who tenanted that
-apartment at present? He said, ‘Tom Pythick.’ I asked him who was Tom
-Pythick? and he said, ‘Joe Pythick’s uncle.’
-
-A little further on, I found the older and smaller wall, which used
-to enclose the pent-up inner prison where nobody was put, except for
-ceremony. But, whosoever goes into Marshalsea Place, turning out of
-Angel Court, leading to Bermondsey, will find his feet on the very
-paving-stones of the extinct Marshalsea jail; will see its narrow yard
-to the right and to the left, very little altered if at all, except that
-the walls were lowered when the place got free; will look upon rooms
-in which the debtors lived; and will stand among the crowding ghosts of
-many miserable years.
-
-In the Preface to Bleak House I remarked that I had never had so many
-readers. In the Preface to its next successor, Little Dorrit, I have
-still to repeat the same words. Deeply sensible of the affection and
-confidence that have grown up between us, I add to this Preface, as I
-added to that, May we meet again!
-
-London May 1857
-
-
-
-
-BOOK THE FIRST: POVERTY
-
-
-
- Sun and Shadow
-
-=======
-﻿LITTLE DORRIT
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+Sun and Shadow
 
 Thirty years ago, Marseilles lay burning in the sun, one day.
 
@@ -705,14 +622,8 @@ interminable plains were in repose--and so deep a hush was on the sea,
 that it scarcely whispered of the time when it shall give up its dead.
 
 
-<<<<<<< HEAD
-
-
 Fellow Travellers
 
-
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
 ‘No more of yesterday’s howling over yonder to-day, Sir; is there?’
 
 ‘I have heard none.’
@@ -1315,14 +1226,13 @@ sea, coming and going so strangely, to meet and to act and react on one
 another, move all we restless travellers through the pilgrimage of life.
 
 
-<<<<<<< HEAD
+
 
 
  Home
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 It was a Sunday evening in London, gloomy, close, and stale. Maddening
 church bells of all degrees of dissonance, sharp and flat, cracked
 and clear, fast and slow, made the brick-and-mortar echoes hideous.
@@ -1923,14 +1833,13 @@ directed and happier to speculate upon--to make him a dreamer, after
 all.
 
 
-<<<<<<< HEAD
+
 
 
  Mrs Flintwinch has a Dream
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 When Mrs Flintwinch dreamed, she usually dreamed, unlike the son of her
 old mistress, with her eyes shut. She had a curiously vivid dream that
 night, and before she had left the son of her old mistress many hours.
@@ -2070,14 +1979,13 @@ dose!’
 Mrs Flintwinch thanked him and crept into bed.
 
 
-<<<<<<< HEAD
+
 
 
 Family Affairs
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 As the city clocks struck nine on Monday morning, Mrs Clennam was
 wheeled by Jeremiah Flintwinch of the cut-down aspect to her tall
 cabinet. When she had unlocked and opened it, and had settled herself
@@ -2586,14 +2494,13 @@ the possibility of her being in some way associated with it. At last he
 resolved to watch Little Dorrit and know more of her story.
 
 
-<<<<<<< HEAD
+
 
 
  The Father of the Marshalsea
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 Thirty years ago there stood, a few doors short of the church of Saint
 George, in the borough of Southwark, on the left-hand side of the way
 going southward, the Marshalsea Prison. It had stood there many years
@@ -3065,14 +2972,13 @@ the Snuggery that night, marvelled what had happened to their Father; he
 walked so late in the shadows of the yard, and seemed so downcast.
 
 
-<<<<<<< HEAD
+
 
 
 The Child of the Marshalsea
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 The baby whose first draught of air had been tinctured with Doctor
 Haggage’s brandy, was handed down among the generations of collegians,
 like the tradition of their common parent. In the earlier stages of her
@@ -3575,13 +3481,12 @@ Marshalsea.
 
 
 
-<<<<<<< HEAD
+
 
 The Lock
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 Arthur Clennam stood in the street, waiting to ask some passer-by what
 place that was. He suffered a few people to pass him in whose face there
 was no encouragement to make the inquiry, and still stood pausing in the
@@ -4077,14 +3982,13 @@ his prison; I wither away in mine; inexorable justice is done; what do I
 owe on this score!’
 
 
-<<<<<<< HEAD
+
 
 
  Little Mother
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 The morning light was in no hurry to climb the prison wall and look in
 at the Snuggery windows; and when it did come, it would have been more
 welcome if it had come alone, instead of bringing a rush of rain with
@@ -4715,14 +4619,13 @@ The cage door opened, and when the small bird, reared in captivity, had
 tamely fluttered in, he saw it shut again; and then he came away.
 
 
-<<<<<<< HEAD
+
 
 
 Containing the whole Science of Government
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
 The Circumlocution Office was (as everybody knows without being told)
 the most important Department under Government. No public business of
 any kind could possibly be done at any time without the acquiescence of
@@ -5625,13 +5528,11 @@ come to look for lodgings in Bleeding Heart Yard some ugly day or other,
 if she over-did the Circumlocution Office.
 
 
-<<<<<<< HEAD
+
 
  Let Loose
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
 A late, dull autumn night was closing in upon the river Saone. The
 stream, like a sullied looking-glass in a gloomy place, reflected the
 clouds heavily; and the low banks leaned over here and there, as if they
@@ -6104,14 +6005,17 @@ which black speck was John Baptist Cavalletto running away from his
 patron.
 
 
-<<<<<<< HEAD
+
+
 
 
  Bleeding Heart Yard
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 In London itself, though in the old rustic road towards a suburb of note
 where in the days of William Shakespeare, author and stage-player, there
 were Royal hunting-seats--howbeit no sport is left there now but for
@@ -6492,13 +6396,16 @@ Circumlocution Office, playing sundry curious variations on the same
 tune, which were not known by ear in that glorious institution.
 
 
-<<<<<<< HEAD
+
+
 
  Patriarchal
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The mention of Mr Casby again revived in Clennam’s memory the
 smouldering embers of curiosity and interest which Mrs Flintwinch had
 fanned on the night of his arrival. Flora Casby had been the beloved of
@@ -7500,14 +7407,17 @@ came as if they were an answer:
 ‘Little Dorrit.’
 
 
-<<<<<<< HEAD
+
+
 
 
 Little Dorrit’s Party
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Arthur Clennam rose hastily, and saw her standing at the door. This
 history must sometimes see with Little Dorrit’s eyes, and shall begin
 that course by seeing him.
@@ -8083,14 +7993,17 @@ Little Dorrit went home, jaded, in the first grey mist of a rainy
 morning.
 
 
-<<<<<<< HEAD
+
+
 
 
 Mrs Flintwinch has another Dream
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The debilitated old house in the city, wrapped in its mantle of soot,
 and leaning heavily on the crutches that had partaken of its decay and
 worn out with it, never knew a healthy or a cheerful interval, let what
@@ -8502,14 +8415,17 @@ against his will, ‘Affery, old woman, you shall have a dose, old woman,
 such a dose! You have been dreaming again!’
 
 
-<<<<<<< HEAD
+
+
 
 
  Nobody’s Weakness
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The time being come for the renewal of his acquaintance with the Meagles
 family, Clennam, pursuant to contract made between himself and Mr
 Meagles within the precincts of Bleeding Heart Yard, turned his face
@@ -9119,14 +9035,17 @@ monotonously, like the river, and to compound for its insensibility to
 happiness with its insensibility to pain.
 
 
-<<<<<<< HEAD
+
+
 
 
  Nobody’s Rival
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Before breakfast in the morning, Arthur walked out to look about him.
 As the morning was fine and he had an hour on his hands, he crossed the
 river by the ferry, and strolled along a footpath through some meadows.
@@ -9541,14 +9460,17 @@ that night, unutterably miserable. As it was--
 As it was, the rain fell heavily, drearily.
 
 
-<<<<<<< HEAD
+
+
 
 
 Little Dorrit’s Lover
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Little Dorrit had not attained her twenty-second birthday without
 finding a lover. Even in the shallow Marshalsea, the ever young Archer
 shot off a few featherless arrows now and then from a mouldy bow, and
@@ -9969,14 +9891,17 @@ breath that the word AMY might be inscribed over his ashes, which was
 accordingly directed to be done, By his afflicted Parents.’
 
 
-<<<<<<< HEAD
+
+
 
 
 The Father of the Marshalsea in two or three Relations
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The brothers William and Frederick Dorrit, walking up and down the
 College-yard--of course on the aristocratic or Pump side, for the Father
 made it a point of his state to be chary of going among his children
@@ -10464,13 +10389,16 @@ life!’
 
 
 
-<<<<<<< HEAD
+
+
 
  Moving in Society
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 If Young John Chivery had had the inclination and the power to write a
 satire on family pride, he would have had no need to go for an avenging
 illustration out of the family of his beloved. He would have found it
@@ -11073,14 +11001,17 @@ of the dim room.
 hand. ‘It was not unreasonable in Fanny.’
 
 
-<<<<<<< HEAD
+
+
 
 
  Mr Merdle’s Complaint
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Upon that establishment of state, the Merdle establishment in Harley
 Street, Cavendish Square, there was the shadow of no more common wall
 than the fronts of other establishments of state on the opposite side of
@@ -11439,14 +11370,17 @@ the shadow of the Marshalsea wall was a real darkening influence, and
 could be seen on the Dorrit Family at any stage of the sun’s course.
 
 
-<<<<<<< HEAD
+
+
 
 
   A Puzzle
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Mr Clennam did not increase in favour with the Father of the Marshalsea
 in the ratio of his increasing visits. His obtuseness on the great
 Testimonial question was not calculated to awaken admiration in the
@@ -11849,14 +11783,17 @@ thought of him--too faithfully, ah, too faithfully!--in the shadow of
 the Marshalsea wall.
 
 
-<<<<<<< HEAD
+
+
 
 
 Machinery in Motion
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Mr Meagles bestirred himself with such prompt activity in the matter of
 the negotiation with Daniel Doyce which Clennam had entrusted to him,
 that he soon brought it into business train, and called on Clennam at
@@ -12586,14 +12523,17 @@ sir, and I must insist on making this observation forcibly in justice to
 myself, that you ought to have got much more money, much more money.’
 
 
-<<<<<<< HEAD
+
+
 
 
 Fortune-Telling
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Little Dorrit received a call that same evening from Mr Plornish, who,
 having intimated that he wished to speak to her privately, in a series
 of coughs so very noticeable as to favour the idea that her father, as
@@ -13329,14 +13269,17 @@ shook her head.
 us come away from the window.’
 
 
-<<<<<<< HEAD
+
+
 
 
 Conspirators and Others
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The private residence of Mr Pancks was in Pentonville, where he lodged
 on the second-floor of a professional gentleman in an extremely small
 way, who had an inner-door within the street door, poised on a spring
@@ -13759,14 +13702,17 @@ highly condensed conversation, Mr Pancks would go his way with an
 appearance of being lightened and refreshed.
 
 
-<<<<<<< HEAD
+
+
 
 
  Nobody’s State of Mind
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 If Arthur Clennam had not arrived at that wise decision firmly to
 restrain himself from loving Pet, he would have lived on in a state of
 much perplexity, involving difficult struggles with his own heart. Not
@@ -14381,14 +14327,17 @@ my mother must have bored you dreadfully.’
 
 ‘Believe me, not at all,’ said Clennam. ‘It’s nothing--nothing!’
 
-<<<<<<< HEAD
+
+
 
 
 
 Five-and-Twenty
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 A frequently recurring doubt, whether Mr Pancks’s desire to collect
 information relative to the Dorrit family could have any possible
 bearing on the misgivings he had imparted to his mother on his return
@@ -14938,12 +14887,15 @@ fortune that awaits her.’
 
 
 
-<<<<<<< HEAD
+
+
 Nobody’s Disappearance
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Not resting satisfied with the endeavours he had made to recover his
 lost charge, Mr Meagles addressed a letter of remonstrance, breathing
 nothing but goodwill, not only to her, but to Miss Wade too. No answer
@@ -15267,14 +15219,17 @@ upon the river; and thus do greater things that once were in our
 breasts, and near our hearts, flow from us to the eternal seas.
 
 
-<<<<<<< HEAD
+
+
 
 
 Mrs Flintwinch goes on Dreaming
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The house in the city preserved its heavy dulness through all these
 transactions, and the invalid within it turned the same unvarying
 round of life. Morning, noon, and night, morning, noon, and night, each
@@ -15648,13 +15603,16 @@ it? What is it? Why does no one answer? Who _is_ that, down there?’
 
 
 
-<<<<<<< HEAD
+
+
 
 The Word of a Gentleman
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 When Mr and Mrs Flintwinch panted up to the door of the old house in the
 twilight, Jeremiah within a second of Affery, the stranger started back.
 ‘Death of my soul!’ he exclaimed. ‘Why, how did you get here?’
@@ -16385,13 +16343,16 @@ occasion, and would be seen again.
 
 
 
-<<<<<<< HEAD
+
+
 
 Spirit
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Anybody may pass, any day, in the thronged thoroughfares of the
 metropolis, some meagre, wrinkled, yellow old man (who might be supposed
 to have dropped from the stars, if there were any star in the Heavens
@@ -17078,13 +17039,16 @@ was by.
 
 
 
-<<<<<<< HEAD
+
+
 
 More Fortune-Telling
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Maggy sat at her work in her great white cap with its quantity of opaque
 frilling hiding what profile she had (she had none to spare), and her
 serviceable eye brought to bear upon her occupation, on the window side
@@ -17532,13 +17496,16 @@ have to break to her. That man’s your Father of the Marshalsea!’
 
 
 
-<<<<<<< HEAD
+
+
 
 Mrs Merdle’s Complaint
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Resigning herself to inevitable fate by making the best of those people,
 the Miggleses, and submitting her philosophy to the draught upon it, of
 which she had foreseen the likelihood in her interview with Arthur,
@@ -18003,14 +17970,17 @@ alone, and being instantly put out again in his own hall, like a
 rushlight, by the chief butler, went sighing to bed.
 
 
-<<<<<<< HEAD
+
+
 
 
 A Shoal of Barnacles
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Mr Henry Gowan and the dog were established frequenters of the cottage,
 and the day was fixed for the wedding. There was to be a convocation of
 Barnacles on the occasion, in order that that very high and very large
@@ -18399,14 +18369,17 @@ did him good. ‘It’s very gratifying,’ he said, often repeating the
 remark in the course of the evening. ‘Such high company!’
 
 
-<<<<<<< HEAD
+
+
 
 
  What was behind Mr Pancks on Little Dorrit’s Hand
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 It was at this time that Mr Pancks, in discharge of his compact with
 Clennam, revealed to him the whole of his gipsy story, and told him
 Little Dorrit’s fortune. Her father was heir-at-law to a great estate
@@ -19003,13 +18976,16 @@ prison, carrying the quiet with him into the turbulent streets.
 
 
 
-<<<<<<< HEAD
+
+
 
 The Marshalsea becomes an Orphan
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 And now the day arrived when Mr Dorrit and his family were to leave the
 prison for ever, and the stones of its much-trodden pavement were to
 know them no more.
@@ -19316,7 +19292,8 @@ sharp ‘By your leave, sir!’ bundled up the steps, and they drove away.
 
 
 
-<<<<<<< HEAD
+
+
 
 BOOK THE SECOND: RICHES
 
@@ -19326,8 +19303,10 @@ BOOK THE SECOND: RICHES
 Fellow Travellers
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 In the autumn of the year, Darkness and Night were creeping up to the
 highest ridges of the Alps.
 
@@ -20079,14 +20058,17 @@ And then, with his nose coming down over his moustache and his moustache
 going up and under his nose, repaired to his allotted cell.
 
 
-<<<<<<< HEAD
+
+
 
 
 Mrs General
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 It is indispensable to present the accomplished lady who was of
 sufficient importance in the suite of the Dorrit Family to have a line
 to herself in the Travellers’ Book.
@@ -20271,13 +20253,16 @@ asleep in the arms of the good Saint Bernard, with the feathery snow
 falling on his house-top.
 
 
-<<<<<<< HEAD
+
+
 
 On the Road
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The bright morning sun dazzled the eyes, the snow had ceased, the mists
 had vanished, the mountain air was so clear and light that the
 new sensation of breathing it was like the having entered on a new
@@ -20938,14 +20923,17 @@ the prison again, and herself, and the old room, and the old inmates,
 and the old visitors: all lasting realities that had never changed.
 
 
-<<<<<<< HEAD
+
+
 
 
 A Letter from Little Dorrit
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Dear Mr Clennam,
 
 I write to you from my own room at Venice, thinking you will be glad to
@@ -21089,14 +21077,17 @@ Gowan. Her words were, ‘Very well and very happy.’ And she looked most
 beautiful.
 
 
-<<<<<<< HEAD
+
+
 
 
 Something Wrong Somewhere
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The family had been a month or two at Venice, when Mr Dorrit, who was
 much among Counts and Marquises, and had but scant leisure, set an hour
 of one day apart, beforehand, for the purpose of holding some conference
@@ -21786,14 +21777,17 @@ the greater part of it in violent fits of embracing her, and in
 alternately giving her brooches, and wishing herself dead.
 
 
-<<<<<<< HEAD
+
+
 
 
 Something Right Somewhere
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 To be in the halting state of Mr Henry Gowan; to have left one of two
 powers in disgust; to want the necessary qualifications for finding
 promotion with another, and to be loitering moodily about on neutral
@@ -22478,13 +22472,16 @@ Doges!’
 
 
 
-<<<<<<< HEAD
+
+
 
 Mostly, Prunes and Prism
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Mrs General, always on her coach-box keeping the proprieties well
 together, took pains to form a surface on her very dear young friend,
 and Mrs General’s very dear young friend tried hard to receive it. Hard
@@ -22985,14 +22982,17 @@ a real meaning, and to entertain a curiosity on her own part to see the
 shining light of the time.
 
 
-<<<<<<< HEAD
+
+
 
 
  The Dowager Mrs Gowan is reminded that ‘It Never Does’
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 While the waters of Venice and the ruins of Rome were sunning themselves
 for the pleasure of the Dorrit family, and were daily being sketched
 out of all earthly proportion, lineament, and likeness, by travelling
@@ -23510,14 +23510,17 @@ Though this history has its opinion on that point too, and decidedly in
 the affirmative.
 
 
-<<<<<<< HEAD
+
+
 
 
  Appearance and Disappearance
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 ‘Arthur, my dear boy,’ said Mr Meagles, on the evening of the following
 day, ‘Mother and I have been talking this over, and we don’t feel
 comfortable in remaining as we are. That elegant connection of
@@ -24218,14 +24221,17 @@ threat, Mr Pancks, with a countenance of grave import, snorted several
 times and steamed away.
 
 
-<<<<<<< HEAD
+
+
 
 
 The Dreams of Mrs Flintwinch thicken
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The shady waiting-rooms of the Circumlocution Office, where he passed a
 good deal of time in company with various troublesome Convicts who were
 under sentence to be broken alive on that wheel, had afforded Arthur
@@ -24574,12 +24580,15 @@ seemed to say a response after Affery, and to mutter, ‘Don’t ask me
 anything. Go away!’
 
 
-<<<<<<< HEAD
+
+
  A Letter from Little Dorrit
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Dear Mr Clennam,
 
 As I said in my last that it was best for nobody to write to me, and
@@ -24812,14 +24821,17 @@ should see him, give him your Little Dorrit’s kind regard. He was very
 good to Little D.
 
 
-<<<<<<< HEAD
+
+
 
 
  In which a Great Patriotic Conference is holden
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The famous name of Merdle became, every day, more famous in the land.
 Nobody knew that the Merdle of such high renown had ever done any good
 to any one, alive or dead, or to any earthly thing; nobody knew that he
@@ -25435,13 +25447,16 @@ known that respectable Nemesis better, they would not have wondered
 about it, and might have stated the amount with the utmost precision.
 
 
-<<<<<<< HEAD
+
+
 
  The Progress of an Epidemic
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 That it is at least as difficult to stay a moral infection as a physical
 one; that such a disease will spread with the malignity and rapidity of
 the Plague; that the contagion, when it has once made head, will spare
@@ -26132,13 +26147,16 @@ of sickening.
 
 
 
-<<<<<<< HEAD
+
+
 
  Taking Advice
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 When it became known to the Britons on the shore of the yellow Tiber
 that their intelligent compatriot, Mr Sparkler, was made one of the
 Lords of their Circumlocution Office, they took it as a piece of news
@@ -26626,14 +26644,17 @@ imperious self-willed step.
 
 
 
-<<<<<<< HEAD
+
+
 
  No just Cause or Impediment why these Two Persons
 should not be joined together
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Mr Dorrit, on being informed by his elder daughter that she had accepted
 matrimonial overtures from Mr Sparkler, to whom she had plighted her
 troth, received the communication at once with great dignity and with a
@@ -27338,14 +27359,17 @@ scratching up the driest little bones of antiquity, and bolting them
 whole without any human visitings--like a Ghoule in gloves.
 
 
-<<<<<<< HEAD
+
+
 
 
  Getting on
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The newly married pair, on their arrival in Harley Street, Cavendish
 Square, London, were received by the Chief Butler. That great man was
 not interested in them, but on the whole endured them. People must
@@ -27657,14 +27681,17 @@ terrific, and he never permitting himself to be approached with the
 slightest liberty.
 
 
-<<<<<<< HEAD
+
+
 
 
  Missing
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The term of Mr Dorrit’s visit was within two days of being out, and he
 was about to dress for another inspection by the Chief Butler (whose
 victims were always dressed expressly for him), when one of the servants
@@ -28125,14 +28152,17 @@ cry out about the noise, and found the body of the missing Blandois, now
 buried in the cellar, and now bricked up in a wall.
 
 
-<<<<<<< HEAD
+
+
 
 
  A Castle in the Air
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Manifold are the cares of wealth and state. Mr Dorrit’s satisfaction in
 remembering that it had not been necessary for him to announce himself
 to Clennam and Co., or to make an allusion to his having had any
@@ -28454,14 +28484,17 @@ Civita Vecchia, and thence scrambled on to Rome as they could, through
 the filth that festered on the way.
 
 
-<<<<<<< HEAD
+
+
 
 
  The Storming of the Castle in the Air
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The sun had gone down full four hours, and it was later than most
 travellers would like it to be for finding themselves outside the walls
 of Rome, when Mr Dorrit’s carriage, still on its last wearisome
@@ -29152,14 +29185,17 @@ far beyond the twilight judgment of this world; high above its mists and
 obscurities.
 
 
-<<<<<<< HEAD
+
+
 
 
  Introduces the next
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The passengers were landing from the packet on the pier at Calais.
 A low-lying place and a low-spirited place Calais was, with the tide
 ebbing out towards low water-mark. There had been no more water on the
@@ -29625,13 +29661,16 @@ paper, and read in them what is reproduced in the next chapter.
 
 
 
-<<<<<<< HEAD
+
+
 
  The History of a Self-Tormentor
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 I have the misfortune of not being a fool. From a very early age I have
 detected what those about me thought they hid from me. If I could have
 been habitually imposed upon, instead of habitually discerning the
@@ -30015,13 +30054,16 @@ We have been together ever since, sharing my small means.
 
 
 
-<<<<<<< HEAD
+
+
 
  Who passes by this Road so late?
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Arthur Clennam had made his unavailing expedition to Calais in the midst
 of a great pressure of business. A certain barbaric Power with valuable
 possessions on the map of the world, had occasion for the services of
@@ -30342,14 +30384,17 @@ But, courage! Enough! It matters not! I go, in this instant of time!’
 
 
 
-<<<<<<< HEAD
+
+
 
  Mistress Affery makes a Conditional Promise,
 respecting her Dreams
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Left alone, with the expressive looks and gestures of Mr Baptist,
 otherwise Giovanni Baptista Cavalletto, vividly before him, Clennam
 entered on a weary day. It was in vain that he tried to control his
@@ -30958,14 +31003,17 @@ It was not in itself a jewel of benevolence or wisdom, yet he made it an
 exemplar of both that one would have liked to have a copy of.
 
 
-<<<<<<< HEAD
+
+
 
 
  The Evening of a Long Day
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 That illustrious man and great national ornament, Mr Merdle, continued
 his shining course. It began to be widely understood that one who had
 done society the admirable service of making so much money out of it,
@@ -31455,13 +31503,16 @@ and waltz, and gyrate, as if he were possessed of several Devils.
 
 
 
-<<<<<<< HEAD
+
+
 
  The Chief Butler Resigns the Seals of Office
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The dinner-party was at the great Physician’s. Bar was there, and in
 full force. Ferdinand Barnacle was there, and in his most engaging
 state. Few ways of life were hidden from Physician, and he was oftener
@@ -31860,13 +31911,16 @@ ever cheated the gallows.
 
 
 
-<<<<<<< HEAD
+
+
 
 Reaping the Whirlwind
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 With a precursory sound of hurried breath and hurried feet, Mr Pancks
 rushed into Arthur Clennam’s Counting-house. The Inquest was over, the
 letter was public, the Bank was broken, the other model structures of
@@ -32273,13 +32327,16 @@ Dorrit!’
 
 
 
-<<<<<<< HEAD
+
+
 
 The Pupil of the Marshalsea
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The day was sunny, and the Marshalsea, with the hot noon striking
 upon it, was unwontedly quiet. Arthur Clennam dropped into a solitary
 arm-chair, itself as faded as any debtor in the jail, and yielded
@@ -32938,13 +32995,16 @@ the following monumental inscription on his pillow--
 
 
 
-<<<<<<< HEAD
+
+
 
 An Appearance in the Marshalsea
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The opinion of the community outside the prison gates bore hard on
 Clennam as time went on, and he made no friends among the community
 within. Too depressed to associate with the herd in the yard, who got
@@ -33811,13 +33871,16 @@ miserable and fallen than before, was left alone again.
 
 
 
-<<<<<<< HEAD
+
+
 
  A Plea in the Marshalsea
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Haggard anxiety and remorse are bad companions to be barred up with.
 Brooding all day, and resting very little indeed at night, will not
 arm a man against misery. Next morning, Clennam felt that his health was
@@ -34212,14 +34275,17 @@ not at all improbable that John would have traversed it with the same
 devotion, for the same purpose.
 
 
-<<<<<<< HEAD
+
+
 
 
  Closing in
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The last day of the appointed week touched the bars of the Marshalsea
 gate. Black, all night, since the gate had clashed upon Little Dorrit,
 its iron stripes were turned by the early-glowing sun into stripes of
@@ -35259,14 +35325,17 @@ down, as he ogled a great beam over his head with particular
 satisfaction.
 
 
-<<<<<<< HEAD
+
+
 
 
  Closed
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The sun had set, and the streets were dim in the dusty twilight, when
 the figure so long unused to them hurried on its way. In the immediate
 neighbourhood of the old house it attracted little attention, for there
@@ -35669,13 +35738,16 @@ style and designation of Mynheer von Flyntevynge.
 
 
 
-<<<<<<< HEAD
+
+
 
  Going
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 Arthur continuing to lie very ill in the Marshalsea, and Mr Rugg
 descrying no break in the legal sky affording a hope of his enlargement,
 Mr Pancks suffered desperately from self-reproaches. If it had not been
@@ -36007,13 +36079,16 @@ again.
 
 
 
-<<<<<<< HEAD
+
+
 
 Going!
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 The changes of a fevered room are slow and fluctuating; but the changes
 of the fevered world are rapid and irrevocable.
 
@@ -36463,14 +36538,17 @@ It was the only comfort he had in the loss of his daughter, and if he
 made the most of it, who could blame him?
 
 
-<<<<<<< HEAD
+
+
 
 
  Gone
 
 
-=======
->>>>>>> c42c88ced8c7af7e5a5e4aace2a41f26c2f8eea4
+
+
+
+
 On a healthy autumn day, the Marshalsea prisoner, weak but otherwise
 restored, sat listening to a voice that read to him. On a healthy autumn
 day; when the golden fields had been reaped and ploughed again, when the
