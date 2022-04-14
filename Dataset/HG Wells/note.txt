@@ -1,0 +1,12 @@
+Train Text (2.8KB):
+	The Island of Doctor Moreau
+	The New Machiavelli
+	The Sleeper Awakes
+	The War in the Air
+	The World Set Free
+Val Text (1.5KB):
+	Tales of Space and Time
+	The First Men in the Moon
+	The Invisible Man
+	The War in the Air
+	The Time Machine
