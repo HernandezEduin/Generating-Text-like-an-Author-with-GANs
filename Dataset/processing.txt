@@ -1,0 +1,3 @@
+1. Remove all Gutenberg Watermarks
+2. Remove Illustration comments
+3. Remove Table of Contents
