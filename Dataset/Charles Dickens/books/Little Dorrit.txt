@@ -1,93 +1,4 @@
-﻿
-
-
-
-Produced by Jo Churcher and David Widger
-
-
-
-
-
-LITTLE DORRIT
-
-By Charles Dickens
-
-PREFACE TO THE 1857 EDITION
-
-
-I have been occupied with this story, during many working hours of two
-years. I must have been very ill employed, if I could not leave its
-merits and demerits as a whole, to express themselves on its being read
-as a whole. But, as it is not unreasonable to suppose that I may have
-held its threads with a more continuous attention than anyone else can
-have given them during its desultory publication, it is not unreasonable
-to ask that the weaving may be looked at in its completed state, and
-with the pattern finished.
-
-If I might offer any apology for so exaggerated a fiction as the
-Barnacles and the Circumlocution Office, I would seek it in the
-common experience of an Englishman, without presuming to mention the
-unimportant fact of my having done that violence to good manners, in the
-days of a Russian war, and of a Court of Inquiry at Chelsea. If I might
-make so bold as to defend that extravagant conception, Mr Merdle, I
-would hint that it originated after the Railroad-share epoch, in the
-times of a certain Irish bank, and of one or two other equally
-laudable enterprises. If I were to plead anything in mitigation of the
-preposterous fancy that a bad design will sometimes claim to be a good
-and an expressly religious design, it would be the curious coincidence
-that it has been brought to its climax in these pages, in the days of
-the public examination of late Directors of a Royal British Bank. But,
-I submit myself to suffer judgment to go by default on all these counts,
-if need be, and to accept the assurance (on good authority) that nothing
-like them was ever known in this land.
-
-Some of my readers may have an interest in being informed whether or no
-any portions of the Marshalsea Prison are yet standing. I did not know,
-myself, until the sixth of this present month, when I went to look. I
-found the outer front courtyard, often mentioned here, metamorphosed
-into a butter shop; and I then almost gave up every brick of the jail
-for lost. Wandering, however, down a certain adjacent ‘Angel Court,
-leading to Bermondsey’, I came to ‘Marshalsea Place:’ the houses in
-which I recognised, not only as the great block of the former prison,
-but as preserving the rooms that arose in my mind’s-eye when I became
-Little Dorrit’s biographer. The smallest boy I ever conversed with,
-carrying the largest baby I ever saw, offered a supernaturally
-intelligent explanation of the locality in its old uses, and was very
-nearly correct. How this young Newton (for such I judge him to be) came
-by his information, I don’t know; he was a quarter of a century too
-young to know anything about it of himself. I pointed to the window of
-the room where Little Dorrit was born, and where her father lived so
-long, and asked him what was the name of the lodger who tenanted that
-apartment at present? He said, ‘Tom Pythick.’ I asked him who was Tom
-Pythick? and he said, ‘Joe Pythick’s uncle.’
-
-A little further on, I found the older and smaller wall, which used
-to enclose the pent-up inner prison where nobody was put, except for
-ceremony. But, whosoever goes into Marshalsea Place, turning out of
-Angel Court, leading to Bermondsey, will find his feet on the very
-paving-stones of the extinct Marshalsea jail; will see its narrow yard
-to the right and to the left, very little altered if at all, except that
-the walls were lowered when the place got free; will look upon rooms
-in which the debtors lived; and will stand among the crowding ghosts of
-many miserable years.
-
-In the Preface to Bleak House I remarked that I had never had so many
-readers. In the Preface to its next successor, Little Dorrit, I have
-still to repeat the same words. Deeply sensible of the affection and
-confidence that have grown up between us, I add to this Preface, as I
-added to that, May we meet again!
-
-London May 1857
-
-
-
-
-BOOK THE FIRST: POVERTY
-
-
-
-CHAPTER 1. Sun and Shadow
-
+﻿LITTLE DORRIT
 
 Thirty years ago, Marseilles lay burning in the sun, one day.
 
@@ -706,11 +617,6 @@ interminable plains were in repose--and so deep a hush was on the sea,
 that it scarcely whispered of the time when it shall give up its dead.
 
 
-
-
-CHAPTER 2 Fellow Travellers
-
-
 ‘No more of yesterday’s howling over yonder to-day, Sir; is there?’
 
 ‘I have heard none.’
@@ -1313,11 +1219,6 @@ sea, coming and going so strangely, to meet and to act and react on one
 another, move all we restless travellers through the pilgrimage of life.
 
 
-
-
-CHAPTER 3. Home
-
-
 It was a Sunday evening in London, gloomy, close, and stale. Maddening
 church bells of all degrees of dissonance, sharp and flat, cracked
 and clear, fast and slow, made the brick-and-mortar echoes hideous.
@@ -1918,11 +1819,6 @@ directed and happier to speculate upon--to make him a dreamer, after
 all.
 
 
-
-
-CHAPTER 4. Mrs Flintwinch has a Dream
-
-
 When Mrs Flintwinch dreamed, she usually dreamed, unlike the son of her
 old mistress, with her eyes shut. She had a curiously vivid dream that
 night, and before she had left the son of her old mistress many hours.
@@ -2060,11 +1956,6 @@ in want of physic. And I’ll give you such a dose, old woman--such a
 dose!’
 
 Mrs Flintwinch thanked him and crept into bed.
-
-
-
-
-CHAPTER 5. Family Affairs
 
 
 As the city clocks struck nine on Monday morning, Mrs Clennam was
@@ -2575,11 +2466,6 @@ the possibility of her being in some way associated with it. At last he
 resolved to watch Little Dorrit and know more of her story.
 
 
-
-
-CHAPTER 6. The Father of the Marshalsea
-
-
 Thirty years ago there stood, a few doors short of the church of Saint
 George, in the borough of Southwark, on the left-hand side of the way
 going southward, the Marshalsea Prison. It had stood there many years
@@ -3049,11 +2935,6 @@ and never spend it. Thank you for it, thank you! I shall see you again?’
 They shook hands and parted. The collegians, assembled in Symposium in
 the Snuggery that night, marvelled what had happened to their Father; he
 walked so late in the shadows of the yard, and seemed so downcast.
-
-
-
-
-CHAPTER 7. The Child of the Marshalsea
 
 
 The baby whose first draught of air had been tinctured with Doctor
@@ -3558,10 +3439,6 @@ Marshalsea.
 
 
 
-
-CHAPTER 8. The Lock
-
-
 Arthur Clennam stood in the street, waiting to ask some passer-by what
 place that was. He suffered a few people to pass him in whose face there
 was no encouragement to make the inquiry, and still stood pausing in the
@@ -4055,11 +3932,6 @@ causelessly frightened, the words were in his ears, as if her voice had
 slowly spoken them at his pillow, to break his rest: ‘He withers away in
 his prison; I wither away in mine; inexorable justice is done; what do I
 owe on this score!’
-
-
-
-
-CHAPTER 9. Little Mother
 
 
 The morning light was in no hurry to climb the prison wall and look in
@@ -4690,11 +4562,6 @@ mother attended by her big child.
 
 The cage door opened, and when the small bird, reared in captivity, had
 tamely fluttered in, he saw it shut again; and then he came away.
-
-
-
-
-CHAPTER 10. Containing the whole Science of Government
 
 
 The Circumlocution Office was (as everybody knows without being told)
@@ -5599,10 +5466,6 @@ come to look for lodgings in Bleeding Heart Yard some ugly day or other,
 if she over-did the Circumlocution Office.
 
 
-
-CHAPTER 11. Let Loose
-
-
 A late, dull autumn night was closing in upon the river Saone. The
 stream, like a sullied looking-glass in a gloomy place, reflected the
 clouds heavily; and the low banks leaned over here and there, as if they
@@ -6075,11 +5938,6 @@ which black speck was John Baptist Cavalletto running away from his
 patron.
 
 
-
-
-CHAPTER 12. Bleeding Heart Yard
-
-
 In London itself, though in the old rustic road towards a suburb of note
 where in the days of William Shakespeare, author and stage-player, there
 were Royal hunting-seats--howbeit no sport is left there now but for
@@ -6458,10 +6316,6 @@ There, he left his Principal alone; to wonder, as he rode away, how many
 thousand Plornishes there might be within a day or two’s journey of the
 Circumlocution Office, playing sundry curious variations on the same
 tune, which were not known by ear in that glorious institution.
-
-
-
-CHAPTER 13. Patriarchal
 
 
 The mention of Mr Casby again revived in Clennam’s memory the
@@ -7465,11 +7319,6 @@ came as if they were an answer:
 ‘Little Dorrit.’
 
 
-
-
-CHAPTER 14. Little Dorrit’s Party
-
-
 Arthur Clennam rose hastily, and saw her standing at the door. This
 history must sometimes see with Little Dorrit’s eyes, and shall begin
 that course by seeing him.
@@ -8045,11 +7894,6 @@ Little Dorrit went home, jaded, in the first grey mist of a rainy
 morning.
 
 
-
-
-CHAPTER 15. Mrs Flintwinch has another Dream
-
-
 The debilitated old house in the city, wrapped in its mantle of soot,
 and leaning heavily on the crutches that had partaken of its decay and
 worn out with it, never knew a healthy or a cheerful interval, let what
@@ -8459,11 +8303,6 @@ Then the noise, if there were any, would have ceased, and Mr Flintwinch
 would snarl, turning upon her as if she had cut him down that moment
 against his will, ‘Affery, old woman, you shall have a dose, old woman,
 such a dose! You have been dreaming again!’
-
-
-
-
-CHAPTER 16. Nobody’s Weakness
 
 
 The time being come for the renewal of his acquaintance with the Meagles
@@ -9075,11 +8914,6 @@ monotonously, like the river, and to compound for its insensibility to
 happiness with its insensibility to pain.
 
 
-
-
-CHAPTER 17. Nobody’s Rival
-
-
 Before breakfast in the morning, Arthur walked out to look about him.
 As the morning was fine and he had an hour on his hands, he crossed the
 river by the ferry, and strolled along a footpath through some meadows.
@@ -9492,11 +9326,6 @@ he had done this and found that all was lost; he would have been,
 that night, unutterably miserable. As it was--
 
 As it was, the rain fell heavily, drearily.
-
-
-
-
-CHAPTER 18. Little Dorrit’s Lover
 
 
 Little Dorrit had not attained her twenty-second birthday without
@@ -9917,11 +9746,6 @@ mentioning, Who died about the end of the year one thousand eight
 hundred and twenty-six, Of a broken heart, Requesting with his last
 breath that the word AMY might be inscribed over his ashes, which was
 accordingly directed to be done, By his afflicted Parents.’
-
-
-
-
-CHAPTER 19. The Father of the Marshalsea in two or three Relations
 
 
 The brothers William and Frederick Dorrit, walking up and down the
@@ -10409,10 +10233,6 @@ had risen, with her father in it three-and-twenty years, and said, in
 a burst of sorrow and compassion, ‘No, no, I have never seen him in my
 life!’
 
-
-
-
-CHAPTER 20. Moving in Society
 
 
 If Young John Chivery had had the inclination and the power to write a
@@ -11017,11 +10837,6 @@ of the dim room.
 hand. ‘It was not unreasonable in Fanny.’
 
 
-
-
-CHAPTER 21. Mr Merdle’s Complaint
-
-
 Upon that establishment of state, the Merdle establishment in Harley
 Street, Cavendish Square, there was the shadow of no more common wall
 than the fronts of other establishments of state on the opposite side of
@@ -11378,11 +11193,6 @@ had one, being solely his own affair. Had he that deep-seated recondite
 complaint, and did any doctor find it out? Patience, in the meantime,
 the shadow of the Marshalsea wall was a real darkening influence, and
 could be seen on the Dorrit Family at any stage of the sun’s course.
-
-
-
-
-CHAPTER 22. A Puzzle
 
 
 Mr Clennam did not increase in favour with the Father of the Marshalsea
@@ -11785,11 +11595,6 @@ thought of her going home; he thought of her in the night; he thought
 of her when the day came round again. And the poor child Little Dorrit
 thought of him--too faithfully, ah, too faithfully!--in the shadow of
 the Marshalsea wall.
-
-
-
-
-CHAPTER 23. Machinery in Motion
 
 
 Mr Meagles bestirred himself with such prompt activity in the matter of
@@ -12519,11 +12324,6 @@ his thumbs:
 ‘A very bad day’s work, Pancks, very bad day’s work. It seems to me,
 sir, and I must insist on making this observation forcibly in justice to
 myself, that you ought to have got much more money, much more money.’
-
-
-
-
-CHAPTER 24. Fortune-Telling
 
 
 Little Dorrit received a call that same evening from Mr Plornish, who,
@@ -13261,11 +13061,6 @@ shook her head.
 us come away from the window.’
 
 
-
-
-CHAPTER 25. Conspirators and Others
-
-
 The private residence of Mr Pancks was in Pentonville, where he lodged
 on the second-floor of a professional gentleman in an extremely small
 way, who had an inner-door within the street door, poised on a spring
@@ -13686,11 +13481,6 @@ chap! Altro!’ To which Mr Baptist would reply with innumerable bright
 nods and smiles, ‘Altro, signore, altro, altro, altro!’ After this
 highly condensed conversation, Mr Pancks would go his way with an
 appearance of being lightened and refreshed.
-
-
-
-
-CHAPTER 26. Nobody’s State of Mind
 
 
 If Arthur Clennam had not arrived at that wise decision firmly to
@@ -14307,11 +14097,6 @@ my mother must have bored you dreadfully.’
 
 ‘Believe me, not at all,’ said Clennam. ‘It’s nothing--nothing!’
 
-
-
-
-CHAPTER 27. Five-and-Twenty
-
 A frequently recurring doubt, whether Mr Pancks’s desire to collect
 information relative to the Dorrit family could have any possible
 bearing on the misgivings he had imparted to his mother on his return
@@ -14861,10 +14646,6 @@ fortune that awaits her.’
 
 
 
-
-CHAPTER 28. Nobody’s Disappearance
-
-
 Not resting satisfied with the endeavours he had made to recover his
 lost charge, Mr Meagles addressed a letter of remonstrance, breathing
 nothing but goodwill, not only to her, but to Miss Wade too. No answer
@@ -15186,11 +14967,6 @@ store to draw upon for the beguiling of the time), and so to bed, and to
 sleep. While the flowers, pale and unreal in the moonlight, floated away
 upon the river; and thus do greater things that once were in our
 breasts, and near our hearts, flow from us to the eternal seas.
-
-
-
-
-CHAPTER 29. Mrs Flintwinch goes on Dreaming
 
 
 The house in the city preserved its heavy dulness through all these
@@ -15564,10 +15340,6 @@ get housed--saw the gentleman standing in the same place in the dark,
 and heard the strong voice of Mrs Clennam calling from her room, ‘Who is
 it? What is it? Why does no one answer? Who _is_ that, down there?’
 
-
-
-
-CHAPTER 30. The Word of a Gentleman
 
 
 When Mr and Mrs Flintwinch panted up to the door of the old house in the
@@ -16300,10 +16072,6 @@ occasion, and would be seen again.
 
 
 
-
-CHAPTER 31. Spirit
-
-
 Anybody may pass, any day, in the thronged thoroughfares of the
 metropolis, some meagre, wrinkled, yellow old man (who might be supposed
 to have dropped from the stars, if there were any star in the Heavens
@@ -16990,10 +16758,6 @@ was by.
 
 
 
-
-CHAPTER 32. More Fortune-Telling
-
-
 Maggy sat at her work in her great white cap with its quantity of opaque
 frilling hiding what profile she had (she had none to spare), and her
 serviceable eye brought to bear upon her occupation, on the window side
@@ -17439,10 +17203,6 @@ You shall tell her, Mr Clennam. Not till we give you leave. Where’s that
 rough total, Mr Rugg? Oh! Here we are! There sir! That’s what you’ll
 have to break to her. That man’s your Father of the Marshalsea!’
 
-
-
-
-CHAPTER 33. Mrs Merdle’s Complaint
 
 
 Resigning herself to inevitable fate by making the best of those people,
@@ -17909,11 +17669,6 @@ alone, and being instantly put out again in his own hall, like a
 rushlight, by the chief butler, went sighing to bed.
 
 
-
-
-CHAPTER 34. A Shoal of Barnacles
-
-
 Mr Henry Gowan and the dog were established frequenters of the cottage,
 and the day was fixed for the wedding. There was to be a convocation of
 Barnacles on the occasion, in order that that very high and very large
@@ -18300,11 +18055,6 @@ aid, that really did him good.
 It had made him much more low and unhappy at the time, but now it really
 did him good. ‘It’s very gratifying,’ he said, often repeating the
 remark in the course of the evening. ‘Such high company!’
-
-
-
-
-CHAPTER 35. What was behind Mr Pancks on Little Dorrit’s Hand
 
 
 It was at this time that Mr Pancks, in discharge of his compact with
@@ -18903,10 +18653,6 @@ prison, carrying the quiet with him into the turbulent streets.
 
 
 
-
-CHAPTER 36. The Marshalsea becomes an Orphan
-
-
 And now the day arrived when Mr Dorrit and his family were to leave the
 prison for ever, and the stones of its much-trodden pavement were to
 know them no more.
@@ -19211,15 +18957,6 @@ The attendant, getting between Clennam and the carriage-door, with a
 sharp ‘By your leave, sir!’ bundled up the steps, and they drove away.
 
 
-
-
-
-BOOK THE SECOND: RICHES
-
-
-
-
-CHAPTER 1. Fellow Travellers
 
 
 In the autumn of the year, Darkness and Night were creeping up to the
@@ -19973,11 +19710,6 @@ And then, with his nose coming down over his moustache and his moustache
 going up and under his nose, repaired to his allotted cell.
 
 
-
-
-CHAPTER 2. Mrs General
-
-
 It is indispensable to present the accomplished lady who was of
 sufficient importance in the suite of the Dorrit Family to have a line
 to herself in the Travellers’ Book.
@@ -20160,11 +19892,6 @@ touch, an atmosphere of varnish round Mrs General’s figure. Mrs
 General’s dreams ought to have been varnished--if she had any--lying
 asleep in the arms of the good Saint Bernard, with the feathery snow
 falling on his house-top.
-
-
-
-
-CHAPTER 3. On the Road
 
 
 The bright morning sun dazzled the eyes, the snow had ceased, the mists
@@ -20827,11 +20554,6 @@ the prison again, and herself, and the old room, and the old inmates,
 and the old visitors: all lasting realities that had never changed.
 
 
-
-
-CHAPTER 4. A Letter from Little Dorrit
-
-
 Dear Mr Clennam,
 
 I write to you from my own room at Venice, thinking you will be glad to
@@ -20973,11 +20695,6 @@ affection and devoted gratitude, always without change, as of
 P.S.--Particularly remember that you are not to be uneasy about Mrs
 Gowan. Her words were, ‘Very well and very happy.’ And she looked most
 beautiful.
-
-
-
-
-CHAPTER 5. Something Wrong Somewhere
 
 
 The family had been a month or two at Venice, when Mr Dorrit, who was
@@ -21669,11 +21386,6 @@ the greater part of it in violent fits of embracing her, and in
 alternately giving her brooches, and wishing herself dead.
 
 
-
-
-CHAPTER 6. Something Right Somewhere
-
-
 To be in the halting state of Mr Henry Gowan; to have left one of two
 powers in disgust; to want the necessary qualifications for finding
 promotion with another, and to be loitering moodily about on neutral
@@ -22358,10 +22070,6 @@ Doges!’
 
 
 
-
-CHAPTER 7. Mostly, Prunes and Prism
-
-
 Mrs General, always on her coach-box keeping the proprieties well
 together, took pains to form a surface on her very dear young friend,
 and Mrs General’s very dear young friend tried hard to receive it. Hard
@@ -22860,11 +22568,6 @@ Merdle, with the contingent view of benefiting by the advice of that
 wonderful man in the disposal of his fortune, she began to think it had
 a real meaning, and to entertain a curiosity on her own part to see the
 shining light of the time.
-
-
-
-
-CHAPTER 8. The Dowager Mrs Gowan is reminded that ‘It Never Does’
 
 
 While the waters of Venice and the ruins of Rome were sunning themselves
@@ -23382,11 +23085,6 @@ inconvenience, and could risk no loss (the pretty creature being fast
 married, and her father devoted to her), was best known to herself.
 Though this history has its opinion on that point too, and decidedly in
 the affirmative.
-
-
-
-
-CHAPTER 9. Appearance and Disappearance
 
 
 ‘Arthur, my dear boy,’ said Mr Meagles, on the evening of the following
@@ -24089,11 +23787,6 @@ threat, Mr Pancks, with a countenance of grave import, snorted several
 times and steamed away.
 
 
-
-
-CHAPTER 10. The Dreams of Mrs Flintwinch thicken
-
-
 The shady waiting-rooms of the Circumlocution Office, where he passed a
 good deal of time in company with various troublesome Convicts who were
 under sentence to be broken alive on that wheel, had afforded Arthur
@@ -24442,11 +24135,6 @@ seemed to say a response after Affery, and to mutter, ‘Don’t ask me
 anything. Go away!’
 
 
-
-
-CHAPTER 11. A Letter from Little Dorrit
-
-
 Dear Mr Clennam,
 
 As I said in my last that it was best for nobody to write to me, and
@@ -24677,11 +24365,6 @@ remembrance in which you can hold her. You cannot think too generously
 or too highly of her. I forgot Mr Pancks last time. Please, if you
 should see him, give him your Little Dorrit’s kind regard. He was very
 good to Little D.
-
-
-
-
-CHAPTER 12. In which a Great Patriotic Conference is holden
 
 
 The famous name of Merdle became, every day, more famous in the land.
@@ -25297,11 +24980,6 @@ his moments of condescension, the gapers said how rich he looked, and
 wondered how much money he had in the wonderful Bank. But, if they had
 known that respectable Nemesis better, they would not have wondered
 about it, and might have stated the amount with the utmost precision.
-
-
-
-
-CHAPTER 13. The Progress of an Epidemic
 
 
 That it is at least as difficult to stay a moral infection as a physical
@@ -25994,10 +25672,6 @@ of sickening.
 
 
 
-
-CHAPTER 14. Taking Advice
-
-
 When it became known to the Britons on the shore of the yellow Tiber
 that their intelligent compatriot, Mr Sparkler, was made one of the
 Lords of their Circumlocution Office, they took it as a piece of news
@@ -26483,11 +26157,6 @@ hidden, suppressed, or conquered feeling in her on the matter. From that
 hour the way she had chosen lay before her, and she trod it with her own
 imperious self-willed step.
 
-
-
-
-CHAPTER 15. No just Cause or Impediment why these Two Persons
-should not be joined together
 
 
 Mr Dorrit, on being informed by his elder daughter that she had accepted
@@ -27194,11 +26863,6 @@ scratching up the driest little bones of antiquity, and bolting them
 whole without any human visitings--like a Ghoule in gloves.
 
 
-
-
-CHAPTER 16. Getting on
-
-
 The newly married pair, on their arrival in Harley Street, Cavendish
 Square, London, were received by the Chief Butler. That great man was
 not interested in them, but on the whole endured them. People must
@@ -27508,11 +27172,6 @@ was disagreeable, or to ask him what he meant, was an act too daring to
 venture upon; his severity with his employers and their visitors being
 terrific, and he never permitting himself to be approached with the
 slightest liberty.
-
-
-
-
-CHAPTER 17. Missing
 
 
 The term of Mr Dorrit’s visit was within two days of being out, and he
@@ -27975,11 +27634,6 @@ cry out about the noise, and found the body of the missing Blandois, now
 buried in the cellar, and now bricked up in a wall.
 
 
-
-
-CHAPTER 18. A Castle in the Air
-
-
 Manifold are the cares of wealth and state. Mr Dorrit’s satisfaction in
 remembering that it had not been necessary for him to announce himself
 to Clennam and Co., or to make an allusion to his having had any
@@ -28299,11 +27953,6 @@ of Genoa the Superb, more beautiful. Mr Dorrit and his matchless castle
 were disembarked among the dirty white houses and dirtier felons of
 Civita Vecchia, and thence scrambled on to Rome as they could, through
 the filth that festered on the way.
-
-
-
-
-CHAPTER 19. The Storming of the Castle in the Air
 
 
 The sun had gone down full four hours, and it was later than most
@@ -28996,11 +28645,6 @@ far beyond the twilight judgment of this world; high above its mists and
 obscurities.
 
 
-
-
-CHAPTER 20. Introduces the next
-
-
 The passengers were landing from the packet on the pier at Calais.
 A low-lying place and a low-spirited place Calais was, with the tide
 ebbing out towards low water-mark. There had been no more water on the
@@ -29466,10 +29110,6 @@ paper, and read in them what is reproduced in the next chapter.
 
 
 
-
-CHAPTER 21. The History of a Self-Tormentor
-
-
 I have the misfortune of not being a fool. From a very early age I have
 detected what those about me thought they hid from me. If I could have
 been habitually imposed upon, instead of habitually discerning the
@@ -29853,10 +29493,6 @@ We have been together ever since, sharing my small means.
 
 
 
-
-CHAPTER 22. Who passes by this Road so late?
-
-
 Arthur Clennam had made his unavailing expedition to Calais in the midst
 of a great pressure of business. A certain barbaric Power with valuable
 possessions on the map of the world, had occasion for the services of
@@ -30175,11 +29811,6 @@ But, courage! Enough! It matters not! I go, in this instant of time!’
 
 ‘Al-tro!’ cried Cavalletto. And was gone with great speed.
 
-
-
-
-CHAPTER 23. Mistress Affery makes a Conditional Promise,
-respecting her Dreams
 
 
 Left alone, with the expressive looks and gestures of Mr Baptist,
@@ -30790,11 +30421,6 @@ It was not in itself a jewel of benevolence or wisdom, yet he made it an
 exemplar of both that one would have liked to have a copy of.
 
 
-
-
-CHAPTER 24. The Evening of a Long Day
-
-
 That illustrious man and great national ornament, Mr Merdle, continued
 his shining course. It began to be widely understood that one who had
 done society the admirable service of making so much money out of it,
@@ -31284,10 +30910,6 @@ and waltz, and gyrate, as if he were possessed of several Devils.
 
 
 
-
-CHAPTER 25. The Chief Butler Resigns the Seals of Office
-
-
 The dinner-party was at the great Physician’s. Bar was there, and in
 full force. Ferdinand Barnacle was there, and in his most engaging
 state. Few ways of life were hidden from Physician, and he was oftener
@@ -31684,10 +31306,6 @@ until it stopped over a certain carrion at the bottom of a bath and
 disappeared--was simply the greatest Forger and the greatest Thief that
 ever cheated the gallows.
 
-
-
-
-CHAPTER 26. Reaping the Whirlwind
 
 
 With a precursory sound of hurried breath and hurried feet, Mr Pancks
@@ -32094,10 +31712,6 @@ need of such a face of love and truth, that he turned against the
 wall to weep, sobbing out, as his heart relieved itself, ‘O my Little
 Dorrit!’
 
-
-
-
-CHAPTER 27. The Pupil of the Marshalsea
 
 
 The day was sunny, and the Marshalsea, with the hot noon striking
@@ -32756,10 +32370,6 @@ the following monumental inscription on his pillow--
      CONQUERED THOSE FEELINGS OF BITTERNESS, AND BECAME
                         MAGNANIMOUS.
 
-
-
-
-CHAPTER 28. An Appearance in the Marshalsea
 
 
 The opinion of the community outside the prison gates bore hard on
@@ -33628,10 +33238,6 @@ miserable and fallen than before, was left alone again.
 
 
 
-
-CHAPTER 29. A Plea in the Marshalsea
-
-
 Haggard anxiety and remorse are bad companions to be barred up with.
 Brooding all day, and resting very little indeed at night, will not
 arm a man against misery. Next morning, Clennam felt that his health was
@@ -34024,11 +33630,6 @@ the gates behind him, passed out into the front where he had left his
 shoes. If the same way had been paved with burning ploughshares, it is
 not at all improbable that John would have traversed it with the same
 devotion, for the same purpose.
-
-
-
-
-CHAPTER 30. Closing in
 
 
 The last day of the appointed week touched the bars of the Marshalsea
@@ -35070,11 +34671,6 @@ down, as he ogled a great beam over his head with particular
 satisfaction.
 
 
-
-
-CHAPTER 31. Closed
-
-
 The sun had set, and the streets were dim in the dusty twilight, when
 the figure so long unused to them hurried on its way. In the immediate
 neighbourhood of the old house it attracted little attention, for there
@@ -35477,10 +35073,6 @@ style and designation of Mynheer von Flyntevynge.
 
 
 
-
-CHAPTER 32. Going
-
-
 Arthur continuing to lie very ill in the Marshalsea, and Mr Rugg
 descrying no break in the legal sky affording a hope of his enlargement,
 Mr Pancks suffered desperately from self-reproaches. If it had not been
@@ -35810,10 +35402,6 @@ making off, though he was pursued by nothing but the sound of laughter
 in Bleeding Heart Yard, rippling through the air and making it ring
 again.
 
-
-
-
-CHAPTER 33. Going!
 
 
 The changes of a fevered room are slow and fluctuating; but the changes
@@ -36263,11 +35851,6 @@ family!’
 
 It was the only comfort he had in the loss of his daughter, and if he
 made the most of it, who could blame him?
-
-
-
-
-CHAPTER 34. Gone
 
 
 On a healthy autumn day, the Marshalsea prisoner, weak but otherwise
@@ -36793,5 +36376,3 @@ and all its blighted fruits. They went quietly down into the roaring
 streets, inseparable and blessed; and as they passed along in sunshine
 and shade, the noisy and the eager, and the arrogant and the froward and
 the vain, fretted and chafed, and made their usual uproar.
-
-

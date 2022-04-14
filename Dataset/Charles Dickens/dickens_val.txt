@@ -1,15 +1,4 @@
-
 Oliver Twist
-
-OR
-THE PARISH BOY’S PROGRESS
-
-by Charles Dickens
-
-
-TREATS OF THE PLACE WHERE OLIVER TWIST WAS BORN AND OF THE
-CIRCUMSTANCES ATTENDING HIS BIRTH
-
 
 Among other public buildings in a certain town, which for many reasons
 it will be prudent to refrain from mentioning, and to which I will
@@ -18619,18 +18608,6 @@ because that nook is in a Church, and she was weak and erring.
 
 A TALE OF TWO CITIES
 
-A STORY OF THE FRENCH REVOLUTION
-
-By Charles Dickens
-
-
-
-
-
-Book the First--Recalled to Life
-
-
-
 The Period
 
 
@@ -29639,9 +29616,9 @@ Manette?”
 Defarge gave into his anxious hand, an open scrap of paper. It bore the
 words in the Doctor’s writing:
 
-    “Charles is safe, but I cannot safely leave this place yet.
-     I have obtained the favour that the bearer has a short note
-     from Charles to his wife.  Let the bearer see his wife.”
+ “Charles is safe, but I cannot safely leave this place yet.
+ I have obtained the favour that the bearer has a short note
+ from Charles to his wife. Let the bearer see his wife.”
 
 It was dated from La Force, within an hour.
 
@@ -29676,9 +29653,9 @@ tidings Mr. Lorry gave her of her husband, and clasped the hand that
 delivered his note--little thinking what it had been doing near him in
 the night, and might, but for a chance, have done to him.
 
-     “DEAREST,--Take courage.  I am well, and your father has
-      influence around me.  You cannot answer this.
-      Kiss our child for me.”
+ “DEAREST,--Take courage. I am well, and your father has
+ influence around me. You cannot answer this.
+ Kiss our child for me.”
 
 That was all the writing. It was so much, however, to her who received
 it, that she turned from Defarge to his wife, and kissed one of the
@@ -31960,7 +31937,7 @@ place, constraining my mind not to wander from the task. Where I make
 the broken marks that follow here, I leave off for the time, and put my
 paper in its hiding-place.
 
-        *****
+ *****
 
 “The carriage left the streets behind, passed the North Barrier, and
 emerged upon the country road. At two-thirds of a league from the
@@ -32037,7 +32014,7 @@ are no medicines to be obtained in this lonely place.’
 a case of medicines here;’ and brought it from a closet, and put it on
 the table.
 
-        *****
+ *****
 
 “I opened some of the bottles, smelt them, and put the stoppers to my
 lips. If I had wanted to use anything save narcotic medicines that were
@@ -32076,7 +32053,7 @@ before the elder said:
 
 “‘You had better see,’ he carelessly answered; and took up a light.
 
-        *****
+ *****
 
 “The other patient lay in a back room across a second staircase, which
 was a species of loft over a stable. There was a low plastered ceiling
@@ -32243,7 +32220,7 @@ forefinger drew a cross in the air. He stood for an instant with the
 finger yet raised, and as it dropped, he dropped with it, and I laid him
 down dead.
 
-        *****
+ *****
 
 “When I returned to the bedside of the young woman, I found her raving
 in precisely the same order of continuity. I knew that this might last
@@ -32302,7 +32279,7 @@ was troubled in my mind with what I had heard and seen.
 pulse and the heart. There was life, and no more. Looking round as I
 resumed my seat, I found both the brothers intent upon me.
 
-        *****
+ *****
 
 “I write with so much difficulty, the cold is so severe, I am so
 fearful of being detected and consigned to an underground cell and total
@@ -32359,7 +32336,7 @@ nothing.
 “They exchanged looks, but bent their heads to me as I bent mine to
 them, and we parted without another word on either side.
 
-        *****
+ *****
 
 “I am weary, weary, weary--worn down by misery. I cannot read what I
 have written with this gaunt hand.
@@ -32382,7 +32359,7 @@ night. I rose long before my usual time next morning to finish it.
 It was the last day of the year. The letter was lying before me just
 completed, when I was told that a lady waited, who wished to see me.
 
-        *****
+ *****
 
 “I am growing more and more unequal to the task I have set myself. It is
 so cold, so dark, my senses are so benumbed, and the gloom upon me is so
@@ -32411,7 +32388,7 @@ inducement to come to me, relying on my confidence, had been the hope
 that I could tell her the name and place of abode. Whereas, to this
 wretched hour I am ignorant of both.
 
-        *****
+ *****
 
 “These scraps of paper fail me. One was taken from me, with a warning,
 yesterday. I must finish my record to-day.
@@ -33482,7 +33459,7 @@ fingers, and touched his lips.
 
 “Hush! Yes, my poor sister; to the last.”
 
-        *****
+ *****
 
 The same shadows that are falling on the prison, are falling, in that
 same hour of the early afternoon, on the Barrier with the crowd about
@@ -34356,7 +34333,7 @@ on of many footsteps in the outskirts of the crowd, so that it swells
 forward in a mass, like one great heave of water, all flashes away.
 Twenty-Three.
 
-        *****
+ *****
 
 They said of him, about the city that night, that it was the
 peacefullest man’s face ever beheld there. Many added that he looked
@@ -34402,7 +34379,3 @@ tell the child my story, with a tender and a faltering voice.
 
 “It is a far, far better thing that I do, than I have ever done; it is a
 far, far better rest that I go to than I have ever known.”
-
-
-
-
