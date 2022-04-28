@@ -32,4 +32,10 @@ class Discriminator():
     def classification_report(self, truth_label, predicted_label):
         return metrics.classification_report(truth_label, predicted_label)
     
+    def confusion_matrix(self, truth_label, predicted_label):
+        return metrics.confusion_matrix(truth_label, predicted_label)
+    
+    def accuracy(self, truth_label, predicted_label):
+        return metrics.accuracy_score(truth_label, predicted_label)
+    
     

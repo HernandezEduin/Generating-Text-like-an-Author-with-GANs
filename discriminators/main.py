@@ -33,7 +33,7 @@ def parse_args():
     parser.add_argument('--save', type=str2bool, default='True', help='Whether to save model.')
 
     parser.add_argument('--show-train-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
-    parser.add_argument('--show-val-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
+    parser.add_argument('--show-val-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
     parser.add_argument('--show-test-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
 
     parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_valid.txt", help='Test Text to Evaluate')
@@ -66,6 +66,8 @@ if __name__ == '__main__':
         predicted = model.predict(x_train)
         print('Train Metric Results:')
         print(model.classification_report(y_train, predicted))
+        print('Confusion Matrix:\n', model.confusion_matrix(y_train, predicted))
+        print('Accuracy: ', 100*model.accuracy(y_train, predicted))
     
     if args.show_val_metrics:
         x_val_path, y_val = get_test_path()
@@ -76,6 +78,9 @@ if __name__ == '__main__':
         predicted = model.predict(x_val)
         print('Validation Metric Results:')
         print(model.classification_report(y_val, predicted))
+        print('Confusion Matrix:\n', model.confusion_matrix(y_val, predicted))
+        print('Accuracy: ', 100*model.accuracy(y_val, predicted))
+        print('\n')
     
     if args.show_test_metrics and os.path.exists(args.test_filepath):
         x_test, _ = read_file(args.test_filepath)
@@ -86,7 +91,7 @@ if __name__ == '__main__':
         predicted = model.predict(x_test)
         
         print('Test Metrics Results')
-        print('Accuracy: ', 100*sum(y_test == predicted)/len(y_test))
+        print('Accuracy: ', 100*model.accuracy(y_test, predicted))
         print('Correct: ', sum(y_test == predicted))
         print('Incorrect: ', sum(y_test != predicted))
         print('Sample size: ', len(y_test))
