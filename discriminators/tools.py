@@ -6,7 +6,6 @@ Created on Fri Apr 22 00:37:08 2022
 """
 
 import unidecode
-import numpy as np
 import random
 
 def read_file(filename):

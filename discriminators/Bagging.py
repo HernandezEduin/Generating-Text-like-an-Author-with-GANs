@@ -20,7 +20,7 @@ class Bagging(Discriminator):
         super().__init__(name, filepath) 
         self.classifier = Pipeline([('vect', CountVectorizer()),
                              ('tfidf', TfidfTransformer()),
-                             ('clf', BaggingClassifier(KNeighborsClassifier())),
+                              ('clf', BaggingClassifier(KNeighborsClassifier())),
                              ])
     
 
@@ -44,3 +44,5 @@ if __name__ == '__main__':
     
     predicted = model.predict(x_test)
     print(model.classification_report(y_test, predicted))
+    print('Confusion Matrix:\n', model.confusion_matrix(y_test, predicted))
+    print('Accuracy: ', 100*model.accuracy(y_test, predicted))

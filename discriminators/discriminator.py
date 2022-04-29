@@ -38,4 +38,6 @@ class Discriminator():
     def accuracy(self, truth_label, predicted_label):
         return metrics.accuracy_score(truth_label, predicted_label)
     
+    def f1(self, truth_label, predicted_label):
+        return metrics.f1_score(truth_label, predicted_label, average='weighted')
     

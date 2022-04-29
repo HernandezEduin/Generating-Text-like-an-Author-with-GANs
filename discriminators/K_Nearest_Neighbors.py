@@ -43,3 +43,5 @@ if __name__ == '__main__':
     
     predicted = model.predict(x_test)
     print(model.classification_report(y_test, predicted))
+    print('Accuracy: %1.2f%%\n' % (100*model.accuracy(y_test, predicted)))
+    print('Confusion Matrix:\n', model.confusion_matrix(y_test, predicted))
