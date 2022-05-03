@@ -136,21 +136,24 @@ def tensor_to_tokens(tensor, dictionary):
 
 def tokens_to_tensor(tokens, dictionary):
     """transform word tokens to Tensor"""
-    # global i
     tensor = []
+    k = set(list(dictionary.keys()))
     for sent in tokens:
         sent_ten = []
-        i = - 1
+        i = -1
         for i, word in enumerate(sent):
             if word == cfg.padding_token:
                 break
+            elif (str(word) not in k):                
+                sent_ten.append(cfg.padding_idx)
+                continue
+            
             sent_ten.append(int(dictionary[str(word)]))
         
-        sent_ten = sent_ten + (cfg.max_seq_len + 1 - i)*[cfg.padding_idx]
+        sent_ten = sent_ten + (cfg.max_seq_len - (i + 1))*[cfg.padding_idx]
         
         tensor.append(sent_ten[:cfg.max_seq_len])
     return torch.LongTensor(tensor)
-
 
 def padding_token(tokens):
     """pad sentences with padding_token"""
