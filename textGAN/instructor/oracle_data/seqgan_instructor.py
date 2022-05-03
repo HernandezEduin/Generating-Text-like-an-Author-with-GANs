@@ -43,6 +43,7 @@ class SeqGANInstructor(BasicInstructor):
                 torch.save(self.gen.state_dict(), cfg.pretrained_gen_path)
                 print('Save pre-trained generator: {}'.format(cfg.pretrained_gen_path))
 
+
         # ===TRAIN DISCRIMINATOR====
         if not cfg.dis_pretrain:
             self.log.info('Starting Discriminator Training...')
@@ -54,7 +55,6 @@ class SeqGANInstructor(BasicInstructor):
         # ===ADVERSARIAL TRAINING===
         self.log.info('Starting Adversarial Training...')
         self.log.info('Initial generator: %s' % (self.cal_metrics(fmt_str=True)))
-
         for adv_epoch in range(cfg.ADV_train_epoch):
             self.log.info('-----\nADV EPOCH %d\n-----' % adv_epoch)
             self.sig.update()

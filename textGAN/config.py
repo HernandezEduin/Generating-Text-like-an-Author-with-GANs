@@ -126,30 +126,18 @@ if os.path.exists(log_filename + '.txt'):
         i += 1
 log_filename = log_filename + '.txt'
 
-# Automatically choose GPU or CPU
-if torch.cuda.is_available() and torch.cuda.device_count() > 0:
-    os.system('nvidia-smi -q -d Utilization > gpu')
-    with open('gpu', 'r') as _tmpfile:
-        util_gpu = list(map(int, re.findall(r'Gpu\s+:\s*(\d+)\s*%', _tmpfile.read())))
-    os.remove('gpu')
-    if len(util_gpu):
-        device = util_gpu.index(min(util_gpu))
-    else:
-        device = 0
-else:
-    device = -1
-# device=0
-# print('device: ', device)
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 if multi_gpu:
     devices = '0,1'
     devices = list(map(int, devices.split(',')))
     device = devices[0]
     torch.cuda.set_device(device)
+    torch.cuda.device(device)
     os.environ['CUDA_VISIBLE_DIVICES'] = ','.join(map(str, devices))
 else:
-    devices = str(device)
-    torch.cuda.set_device(device)
+    devices = device
+    torch.cuda.device(device)
 
 # ===Save Model and samples===
 save_root = 'save/{}/{}/{}_{}_dt-{}_lt-{}_mt-{}_et-{}_sl{}_temp{}_lfd{}_T{}/'.format(time.strftime("%Y%m%d"),
@@ -288,8 +276,8 @@ def init_param(opt):
         torch.cuda.set_device(device)
         os.environ['CUDA_VISIBLE_DIVICES'] = ','.join(map(str, devices))
     else:
-        devices = str(device)
-        torch.cuda.set_device(device)
+        devices = device
+        torch.cuda.device(device)
 
     # Save path
     save_root = 'save/{}/{}/{}_{}_dt-{}_lt-{}_mt-{}_et-{}_sl{}_temp{}_lfd{}_T{}/'.format(time.strftime("%Y%m%d"),

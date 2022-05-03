@@ -31,13 +31,13 @@ def parse_args():
     parser.add_argument('--model-name', type=str, default='svm', help='Model to use. Can be ' + str(list(dm.keys()))) #120
     parser.add_argument('--train', type=str2bool, default='False', help='Whether to retrain model if it exists')
     parser.add_argument('--save', type=str2bool, default='True', help='Whether to save model.')
-    parser.add_argument('--char-paragraph', type=int, default=250, help='Number of characters required per paragraph.')
+    parser.add_argument('--char-paragraph', type=int, default=100, help='Number of characters required per paragraph.')
 
     parser.add_argument('--show-train-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
     parser.add_argument('--show-val-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
     parser.add_argument('--show-test-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
 
-    parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_valid.txt", help='Test Text to Evaluate')
+    parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_test.txt", help='Test Text to Evaluate')
     parser.add_argument('--test-author', type=str, default='shakespeare', help='Test Author being evaluated')
     args = parser.parse_args()
     return args
@@ -68,7 +68,7 @@ if __name__ == '__main__':
         print('Train Metric Results:')
         print(model.classification_report(y_train, predicted))
         print('Accuracy: %1.2f%%\n' % (100*model.accuracy(y_train, predicted)))
-        print('Confusion Matrix:\n', model.confusion_matrix(y_train, predicted))
+        print('Confusion Matrix:\n', model.confusion_matrix(y_train, predicted, labels=[0,1,2,3,4,5]))
     
     if args.show_val_metrics:
         x_val_path, y_val = get_test_path()
@@ -80,9 +80,9 @@ if __name__ == '__main__':
         print('Validation Metric Results:')
         print(model.classification_report(y_val, predicted))
         print('Accuracy: %1.2f%%\n' % (100*model.accuracy(y_val, predicted)))
-        print('Confusion Matrix:\n', model.confusion_matrix(y_val, predicted))
+        print('Confusion Matrix:\n', model.confusion_matrix(y_val, predicted, labels=[0,1,2,3,4,5]))
         print('\n')
-    
+        
     if args.show_test_metrics and os.path.exists(args.test_filepath):
         x_test, _ = read_file(args.test_filepath)
         _,_, class_label = authors_dict[args.test_author.lower()]
@@ -94,5 +94,4 @@ if __name__ == '__main__':
         print('Test Metrics Results:')
         print('Accuracy: %1.2f%%' % (100*model.accuracy(y_test, predicted)))
         print('f1-score: %1.2f%%' % (100*model.f1(y_test, predicted)))
-        print('Confusion Matrix:\n', model.confusion_matrix(y_test, predicted))
-
+        print('Confusion Matrix:\n', model.confusion_matrix(y_test, predicted, labels=[0,1,2,3,4,5]))

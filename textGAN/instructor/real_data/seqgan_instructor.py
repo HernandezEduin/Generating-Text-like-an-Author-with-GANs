@@ -36,6 +36,7 @@ class SeqGANInstructor(BasicInstructor):
     def _run(self):
         # ===PRE-TRAINING===
         # TRAIN GENERATOR
+        print('Pre-Trainining Generator')
         if not cfg.gen_pretrain:
             self.log.info('Starting Generator MLE Training...')
             self.pretrain_generator(cfg.MLE_train_epoch)
@@ -43,6 +44,7 @@ class SeqGANInstructor(BasicInstructor):
                 torch.save(self.gen.state_dict(), cfg.pretrained_gen_path)
                 print('Save pre-trained generator: {}'.format(cfg.pretrained_gen_path))
 
+        print('Pre-Trainining Discriminator')
         # ===TRAIN DISCRIMINATOR====
         if not cfg.dis_pretrain:
             self.log.info('Starting Discriminator Training...')
@@ -54,8 +56,9 @@ class SeqGANInstructor(BasicInstructor):
         # ===ADVERSARIAL TRAINING===
         self.log.info('Starting Adversarial Training...')
         self.log.info('Initial generator: %s' % (self.cal_metrics(fmt_str=True)))
-
+        print('Adversarial Training')
         for adv_epoch in range(cfg.ADV_train_epoch):
+            print('Epoch:', adv_epoch)
             self.log.info('-----\nADV EPOCH %d\n-----' % adv_epoch)
             self.sig.update()
             if self.sig.adv_sig:
@@ -80,6 +83,7 @@ class SeqGANInstructor(BasicInstructor):
         Max Likelihood Pre-training for the generator
         """
         for epoch in range(epochs):
+            print('Epoch:', epoch)
             self.sig.update()
             if self.sig.pre_sig:
                 pre_loss = self.train_gen_epoch(self.gen, self.train_data.loader, self.mle_criterion, self.gen_opt)
@@ -121,6 +125,7 @@ class SeqGANInstructor(BasicInstructor):
         # prepare loader for validate
         global d_loss, train_acc
         for step in range(d_step):
+            print('Step:', step)
             # prepare loader for training
             pos_samples = self.train_data.target
             neg_samples = self.gen.sample(cfg.samples_num, 4 * cfg.batch_size)

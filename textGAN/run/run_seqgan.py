@@ -18,12 +18,14 @@ import os
 def parse_args():
     parser = argparse.ArgumentParser(description='Author Text Classifier')
     
-    parser.add_argument('--job-id', type=int, default=3)
-    parser.add_argument('--gpu-id', type=int, default=0)
+    # parser.add_argument('--job-id', type=int, default=3)
+    parser.add_argument('--dataset', type=str, default='shakespeare', help='Name of dataset to use. Must match with the file in ./dataset/ and ./dataset/testdata/.')
+    parser.add_argument('--real-data', type=int, default=1, help='Set to 0 if synthetic data. Set to 1 for real data.')
+    parser.add_argument('--vocab-size', type=int, default=0, help='Vocab size. Set 0 for real data.')
     args = parser.parse_args()
     return args
 
-args2 = parse_args()
+seqgan_args = parse_args()
 
 # Executables
 executable = 'python'  # specify your own python interpreter path here
@@ -42,9 +44,9 @@ ADV_train_epoch = 200
 tips = 'SeqGAN experiments'
 
 # ===Oracle  or Real===
-if_real_data = [int(False), int(True), int(True), int(True)]
-dataset = ['oracle', 'image_coco', 'emnlp_news', 'shakespeare']
-vocab_size = [5000, 0, 0, 0]
+# if_real_data = [int(False), int(True), int(True), int(True)]
+# dataset = ['oracle', 'image_coco', 'emnlp_news', 'shakespeare']
+# vocab_size = [5000, 0, 0, 0]
 
 # ===Basic Param===
 data_shuffle = int(False)
@@ -95,9 +97,13 @@ args = [
     '--tips', tips,
 
     # Oracle or Real
-    '--if_real_data', if_real_data[args2.job_id],
-    '--dataset', dataset[args2.job_id],
-    '--vocab_size', vocab_size[args2.job_id],
+    # '--if_real_data', if_real_data[args2.job_id],
+    # '--dataset', dataset[args2.job_id],
+    # '--vocab_size', vocab_size[args2.job_id],
+    
+    '--if_real_data', seqgan_args.real_data,
+    '--dataset', seqgan_args.dataset,
+    '--vocab_size', seqgan_args.vocab_size,
 
     # Basic Param
     '--shuffle', data_shuffle,
