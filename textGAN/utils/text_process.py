@@ -18,7 +18,7 @@ import config as cfg
 def get_tokenlized(file):
     """tokenlize the file"""
     tokenlized = list()
-    with open(file) as raw:
+    with open(file, encoding='utf-8') as raw:
         for text in raw:
             text = nltk.word_tokenize(text.lower())
             tokenlized.append(text)
@@ -80,9 +80,9 @@ def init_dict(dataset):
     word_set = get_word_list(tokens)
     word2idx_dict, idx2word_dict = get_dict(word_set)
 
-    with open('dataset/{}_wi_dict.txt'.format(dataset), 'w') as dictout:
+    with open('dataset/{}_wi_dict.txt'.format(dataset), 'w', encoding='utf-8') as dictout:
         dictout.write(str(word2idx_dict))
-    with open('dataset/{}_iw_dict.txt'.format(dataset), 'w') as dictout:
+    with open('dataset/{}_iw_dict.txt'.format(dataset), 'w', encoding='utf-8') as dictout:
         dictout.write(str(idx2word_dict))
 
     print('total tokens: ', len(word2idx_dict))
@@ -96,9 +96,9 @@ def load_dict(dataset):
     if not os.path.exists(iw_path) or not os.path.exists(iw_path):  # initialize dictionaries
         init_dict(dataset)
 
-    with open(iw_path, 'r') as dictin:
+    with open(iw_path, 'r', encoding='utf-8') as dictin:
         idx2word_dict = eval(dictin.read().strip())
-    with open(wi_path, 'r') as dictin:
+    with open(wi_path, 'r', encoding='utf-8') as dictin:
         word2idx_dict = eval(dictin.read().strip())
 
     return word2idx_dict, idx2word_dict
