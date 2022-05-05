@@ -23,7 +23,12 @@ def generate(decoder, prime_str='A', predict_len=100, temperature=0.8, cuda=Fals
         
     inp = prime_input[:,-1]
     
-    for p in range(predict_len):
+    # for p in range(predict_len):
+    p = 0
+    predicted_char = ''
+    while p < predict_len or predicted_char != '.':
+        p += 1
+        
         output, hidden = decoder(inp, hidden)
         
         # Sample from the network as a multinomial distribution
