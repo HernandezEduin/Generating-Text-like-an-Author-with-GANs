@@ -12,6 +12,8 @@ from Random_Forest import RandomForest
 from Rocchio import Rocchio
 from SVM import SVM
 
+from mlp import MLP
+
 discriminator_models = {'bagging': Bagging,
                         'bag': Bagging,
                         'decisiontree': DecisionTree,
@@ -25,3 +27,5 @@ discriminator_models = {'bagging': Bagging,
                         'rocchio': Rocchio,
                         'svm': SVM,
                         }
+
+discriminator_dnn_models = {'mlp': MLP}

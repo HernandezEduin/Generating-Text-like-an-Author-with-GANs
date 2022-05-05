@@ -22,6 +22,7 @@ def parse_args():
     parser.add_argument('--dataset', type=str, default='shakespeare', help='Name of dataset to use. Must match with the file in ./dataset/ and ./dataset/testdata/.')
     parser.add_argument('--real-data', type=int, default=1, help='Set to 0 if synthetic data. Set to 1 for real data.')
     parser.add_argument('--vocab-size', type=int, default=0, help='Vocab size. Set 0 for real data.')
+    parser.add_argument('--adv-train-epoch', type=int, default=20, help='Adversarial Train Epoch.')
     args = parser.parse_args()
     return args
 
@@ -40,7 +41,7 @@ oracle_pretrain = int(True)
 gen_pretrain = int(False)
 dis_pretrain = int(False)
 MLE_train_epoch = 120
-ADV_train_epoch = 200
+# ADV_train_epoch = 200
 tips = 'SeqGAN experiments'
 
 # ===Oracle  or Real===
@@ -93,7 +94,8 @@ args = [
     '--gen_pretrain', gen_pretrain,
     '--dis_pretrain', dis_pretrain,
     '--mle_epoch', MLE_train_epoch,
-    '--adv_epoch', ADV_train_epoch,
+    # '--adv_epoch', ADV_train_epoch,
+    '--adv_epoch', seqgan_args.adv_train_epoch,
     '--tips', tips,
 
     # Oracle or Real
@@ -143,5 +145,4 @@ args = [
 
 args = list(map(str, args))
 my_env = os.environ.copy()
-call([executable, scriptname] + args, env=my_env, cwd=rootdir, shell=True)
-# call(['python', 'print.py'], env=my_env, cwd='D:/Dewen/GitHub/EEE486-Project/textGAN/', shell=True)
+call([executable, scriptname] + args, env=my_env, cwd=rootdir, shell=False)

@@ -45,13 +45,34 @@ if __name__ == '__main__':
 # Parse command line arguments
     argparser = argparse.ArgumentParser()
     argparser.add_argument('filename', type=str)
-    argparser.add_argument('-p', '--prime_str', type=str, default='A')
-    argparser.add_argument('-l', '--predict_len', type=int, default=100)
+    argparser.add_argument('--output-filename', type=str)
+    # argparser.add_argument('-p', '--prime_str', type=str, default='A')
+    argparser.add_argument('-l', '--predict_len', type=int, default=400)
     argparser.add_argument('-t', '--temperature', type=float, default=0.8)
     argparser.add_argument('--cuda', action='store_true')
     args = argparser.parse_args()
 
     decoder = torch.load(args.filename)
+    output_filename = args.output_filename
     del args.filename
-    print(generate(decoder, **vars(args)))
+    del args.output_filename
+    
+    for prime_str in ['A', 'Th', 'Wh', 'Fr', 'M', 'T', 'W', 'F', 'No', 'Yes', 'King']:
+        args.prime_str = prime_str
+        paragraph = generate(decoder, **vars(args)) + '\n\n'
+        with open('./samples/' + output_filename, 'a+') as outfile:
+            outfile.write(paragraph)
 
+    print('Samples Generated!')
+    
+    # argparser = argparse.ArgumentParser()
+    # argparser.add_argument('filename', type=str)
+    # argparser.add_argument('-p', '--prime_str', type=str, default='A')
+    # argparser.add_argument('-l', '--predict_len', type=int, default=100)
+    # argparser.add_argument('-t', '--temperature', type=float, default=0.8)
+    # argparser.add_argument('--cuda', action='store_true')
+    # args = argparser.parse_args()
+    
+    # decoder = torch.load(args.filename)
+    # del args.filename
+    # print(generate(decoder, **vars(args)))

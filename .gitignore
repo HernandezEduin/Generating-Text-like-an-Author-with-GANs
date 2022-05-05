@@ -2,3 +2,4 @@
 *.pyc
 discriminators/models/bagging.sav
 discriminators/models/random_forest.sav
+discriminators/models/mlp.pt
