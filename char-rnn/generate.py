@@ -62,7 +62,7 @@ if __name__ == '__main__':
     del args.filename
     del args.output_filename
     
-    for prime_str in ['A', 'Th', 'Wh', 'Fr', 'M', 'T', 'W', 'F', 'No', 'Yes', 'King']:
+    for prime_str in ['A', 'Th', 'Wh', 'Fr', 'M', 'T', 'W', 'F', 'No', 'Yes', 'King']*5:
         args.prime_str = prime_str
         paragraph = generate(decoder, **vars(args)) + '\n\n'
         with open('./samples/' + output_filename, 'a+') as outfile:
