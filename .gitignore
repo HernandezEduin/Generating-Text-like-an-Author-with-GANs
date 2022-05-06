@@ -3,3 +3,6 @@
 discriminators/models/bagging.sav
 discriminators/models/random_forest.sav
 discriminators/models/mlp.pt
+textClassifiers/models/bagging.sav
+textClassifiers/models/mlp.pt
+textClassifiers/models/random_forest.sav

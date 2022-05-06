@@ -30,19 +30,19 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Author Text Classifier')
 
     'Model Details'
-    parser.add_argument('--model-name', type=str, default='SVM', help='Model to use. Can be ' + str(list(dm.keys()))) #120
+    parser.add_argument('--model-name', type=str, default='svm', help='Model to use. Can be ' + str(list(dm.keys()))) #120
     parser.add_argument('--train', type=str2bool, default='False', help='Whether to retrain model if it exists')
     parser.add_argument('--save', type=str2bool, default='True', help='Whether to save model.')
     parser.add_argument('--char-paragraph', type=int, default=200, help='Number of characters required per paragraph.')
 
     parser.add_argument('--show-train-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
-    parser.add_argument('--show-val-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
-    parser.add_argument('--show-test-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
+    parser.add_argument('--show-val-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
+    parser.add_argument('--show-test-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
 
-    # parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_test_gan.txt", help='Test Text to Evaluate')
-    # parser.add_argument('--test-author', type=str, default='shakespeare', help='Test Author being evaluated')
-    parser.add_argument('--test-filepath', type=str, default="../textGAN/samples/wells_test_seqgan.txt", help='Test Text to Evaluate')
-    parser.add_argument('--test-author', type=str, default='wells', help='Test Author being evaluated')
+    parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_test_gan.txt", help='Test Text to Evaluate')
+    parser.add_argument('--test-author', type=str, default='shakespeare', help='Test Author being evaluated')
+    # parser.add_argument('--test-filepath', type=str, default="../textGAN/samples/wells_test_seqgan.txt", help='Test Text to Evaluate')
+    # parser.add_argument('--test-author', type=str, default='wells', help='Test Author being evaluated')
     args = parser.parse_args()
     return args
 
