@@ -71,6 +71,8 @@ class SeqGANInstructor(BasicInstructor):
             else:
                 self.log.info('>>> Stop by adv_signal! Finishing adversarial training...')
                 break
+        if cfg.if_save and not cfg.if_test:
+            self._gen_samples()
 
     def _test(self):
         print('>>> Begin test...')

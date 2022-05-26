@@ -19,6 +19,8 @@ def get_tokenlized(file):
     with open(file, encoding='utf-8') as raw:
         for text in raw:
             text = nltk.word_tokenize(text.lower())
+            if len(text) < 5:
+                continue
             tokenlized.append(text)
     return tokenlized
 
@@ -98,8 +100,8 @@ def str2bool(string):
 def parse_args():
     parser = argparse.ArgumentParser(description='Author Text Bleu Metric')
 
-    parser.add_argument('--test-filepath', type=str, default='../textGAN/samples/wells_test_seqgan.txt', help='Test Text to Evaluate')
-    parser.add_argument('--test-author', type=str, default='wells', help='Test Author being evaluated')
+    parser.add_argument('--test-filepath', type=str, default="../textGAN/samples/dickens_test_seqgan.txt", help='Test Text to Evaluate')
+    parser.add_argument('--test-author', type=str, default='dickens', help='Test Author being evaluated')
     
     parser.add_argument('--show-val-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
     parser.add_argument('--show-test-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
@@ -116,12 +118,13 @@ if __name__ == '__main__':
 
     bleu = BLEU('BLEU', gram=[2, 3, 4, 5])
 
+    print('Author: ', args.test_author)
     if args.show_val_metrics:    
         val = get_tokenlized(val_dataset)
         bleu.reset(test_text=train, real_text=val)
-        print(bleu.get_score())
+        print('Val Bleu - ', bleu.get_score())
     
     if args.show_test_metrics:
         test = get_tokenlized(args.test_filepath)
         bleu.reset(test_text=train, real_text=test)
-        print(bleu.get_score())
+        print('Test Bleu - ', bleu.get_score())

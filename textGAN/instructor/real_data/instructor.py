@@ -261,6 +261,12 @@ class BasicInstructor:
         save_sample_path = cfg.save_samples_root + 'samples_{}_{:05d}.txt'.format(phase, epoch)
         samples = self.gen.sample(cfg.batch_size, cfg.batch_size)
         write_tokens(save_sample_path, tensor_to_tokens(samples, self.idx2word_dict))
+       
+    def _gen_samples(self):
+        save_sample_path = cfg.save_samples_root + 'final_samples.txt'
+        samples = self.gen.sample(10000, cfg.batch_size)
+        write_tokens(save_sample_path, tensor_to_tokens(samples, self.idx2word_dict))
+    
 
     def update_temperature(self, i, N):
         self.gen.temperature.data = torch.Tensor([get_fixed_temperature(cfg.temperature, i, N, cfg.temp_adpt)])

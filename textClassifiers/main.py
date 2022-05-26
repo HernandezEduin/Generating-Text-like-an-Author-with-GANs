@@ -36,13 +36,13 @@ def parse_args():
     parser.add_argument('--char-paragraph', type=int, default=200, help='Number of characters required per paragraph.')
 
     parser.add_argument('--show-train-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
-    parser.add_argument('--show-val-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
-    parser.add_argument('--show-test-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
+    parser.add_argument('--show-val-metrics', type=str2bool, default='False', help='Calculate and Show Train metrics')
+    parser.add_argument('--show-test-metrics', type=str2bool, default='True', help='Calculate and Show Train metrics')
 
-    parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_test_gan.txt", help='Test Text to Evaluate')
+    # parser.add_argument('--test-filepath', type=str, default="../Dataset/William Shakespeare/shakespeare_test_gan.txt", help='Test Text to Evaluate')
+    # parser.add_argument('--test-author', type=str, default='shakespeare', help='Test Author being evaluated')
+    parser.add_argument('--test-filepath', type=str, default="../textGAN/samples/shakespeare_test_seqgan.txt", help='Test Text to Evaluate')
     parser.add_argument('--test-author', type=str, default='shakespeare', help='Test Author being evaluated')
-    # parser.add_argument('--test-filepath', type=str, default="../textGAN/samples/wells_test_seqgan.txt", help='Test Text to Evaluate')
-    # parser.add_argument('--test-author', type=str, default='wells', help='Test Author being evaluated')
     args = parser.parse_args()
     return args
 
@@ -106,7 +106,7 @@ if __name__ == '__main__':
         print('f1-score: %1.2f%%' % (100*model.f1(y_test, predicted)))
         print('Confusion Matrix:\n', model.confusion_matrix(y_test, predicted, labels=[0,1,2,3,4,5]))
         
-        # mat = model.confusion_matrix(y_test, predicted, labels=[0,1,2,3,4,5])
+        # mat += model.confusion_matrix(y_test, predicted, labels=[0,1,2,3,4,5])
         # ax = sns.heatmap(mat,
         #                   annot=True, vmin=0, cbar=False, fmt=".4g",
         #                   xticklabels=list(authors_dict.keys()), yticklabels=list(authors_dict.keys()))
@@ -115,4 +115,6 @@ if __name__ == '__main__':
         # model.confusion2f1(mat)
         # import numpy as np
         # np.trace(mat)/mat.sum()
+        # mat.sum()
+        # np.nansum(model.confusion2f1(mat)[0] * (mat.sum(axis=1) / mat.sum()))
         
