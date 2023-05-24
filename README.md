@@ -1,2 +1,2 @@
-# EEE486-Project
- Project for Statistical Foundations of Natural Language Processing
+# Generating Text like an Author with GANs
+ Project for Statistical Foundations of Natural Language Processing (EEE486)
