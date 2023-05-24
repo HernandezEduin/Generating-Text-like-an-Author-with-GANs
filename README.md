@@ -10,5 +10,5 @@ python generate.py shakespeare_train.pt --output-filename shakespeare_test_char.
 ### textGAN
 (inside ./run/)
 ```
-	python run_seqgan.py --dataset wells
+python run_seqgan.py --dataset wells
 ```
